@@ -1,0 +1,23 @@
++++
+title = 'Persönliche oder berufliche Webseite?'
+date = 2023-05-20T16:19:30+01:00
+draft = false
+tags = ["clarification"]
++++
+
+
+Diese Webseite ist ein Knotenpunkt, nur nicht wie ein Switch, der sternförmig Netzwerkknoten miteinander verbindet, sondern als Person im unveränderlichen Zentrum, die nur scheinbar chaotisch unterschiedlichste Lebensbereiche, bzw. Gebiete oder Felder in sich vereint.
+
+Aus dem Menü ist ersichtlich, wo sich was befindet, und so gelangt ein Freund mühelos zu einem Essay und ein potenzieller Auftraggeber genauso schnell zu meinem Portfolio, das vorwiegend IT-Projekte enthält.
+
+Denn ich war viele Jahre Student, dann Angestellter, jetzt bin ich als Freiberufler im IT-Bereich selbständig, demnächst werde ich parallel als Solutions Architekt wieder angestellt sein und bewege mich aber grundsätzlich unbedingt hin zum Unternehmertum.
+
+Mal bin ich überwältigt von einem besonderen privaten Ereignis, wie meinem endlich deutlich sichtbaren Sixpack.
+
+Ein anderes Mal beschäftigt mich ein gesellschaftliches Großereignis, wie z.B. die Verleihung des Nobelpreises für Physik an Farrah Fowler und Cooper.
+
+In mehr als 90 % meiner Zeit arbeite ich allerdings an Projekten aus dem IT-Bereich, sei es nun am Design einer Webseite, dem Aufbau einer Lernplattform, Tüfteln an einem Prototyp oder der Umsetzung eines Unternehmens nach den Prinzipien von MJ De Marco.
+
+Trotz unterschiedlichster Tätigkeitsfelder und stetigen Veränderungen soll zumindest diese Webseite eine gewisse Unveränderlichkeit bieten.
+
+Ich könnte aber auch ehrlicher sein und zugeben, dass mir zugetragen wurde, dass diese Webseite entweder privat oder beruflich sein sollte und ein Besucher verwirrt sein könnte über die fehlende Zuordnung, weshalb diese Erklärung einen Umbau bzw. ein Aufsplittern ersetzt. 

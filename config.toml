@@ -1,9 +1,25 @@
 baseURL = 'https://mjmrozek.com/'
-languageCode = 'en-us'
 title = 'Matthäus J. Mrozek'
 theme = 'PaperMod'
 
+# Definiere Standard-Sprache
+defaultContentLanguage = "en" # Standardmäßig Englisch
+defaultContentLanguageInSubdir = true # Platzierung der Standard-Sprache in einem Unterordner
 
+[languages]
+  [languages.en]
+    languageName = "English"
+    contentDir = "content/english"
+    weight = 1
+    languageCode = "en-us"
+    title = "Matthäus J. Mrozek (EN)"
+  
+  [languages.de]
+    languageName = "Deutsch"
+    contentDir = "content/deutsch"
+    weight = 2
+    languageCode = "de-de"
+    title = "Matthäus J. Mrozek (DE)"
 
 [params]
   showPostNavLinks = true
@@ -11,16 +27,28 @@ theme = 'PaperMod'
   showBreadCrumbs = true
   mainSections = ["posts"]
 
- [params.homeInfoParams]
+# Globale Parameter für Englisch
+[params.homeInfoParams]
   Title = "Blogging & IT Solutions"
-  Content = """This **website** is a **hub**, but not in the way a switch star-connects network nodes; it’s more like a **person** in an immutable **center**, seemingly chaotically 
-  amalgamating various areas of life, or fields, within itself. [Read more...](/posts/hub/)"""
+  Content = """
+  This **website** is a **hub**, but not in the way a switch star-connects network nodes; it’s more like a **person** in an immutable **center**, seemingly chaotically 
+  amalgamating various areas of life, or fields, within itself. [Read more...](/en/posts/hub/)
+  """
+
+# Spezifische Parameter für Deutsch
+[languages.de.params.homeInfoParams]
+  Title = "Blogging & IT-Lösungen"
+  Content = """
+  Diese **Webseite** ist ein **Knotenpunkt**, nur nicht wie ein Switch, der sternförmig Netzwerkknoten miteinander verbindet, 
+  sondern als **Person** im unveränderlichen **Zentrum**, die nur scheinbar chaotisch unterschiedlichste Lebensbereiche, bzw. 
+  Gebiete oder Felder in sich vereint. [Mehr erfahren...](/de/posts/hub/)
+  """
 
 
-
-
-
-   [[params.socialIcons]]
+# Social Icons bleiben gleich, da sie sprachunabhängig sind
+[[params.socialIcons]]
+# ... (deine vorhandenen Social-Icons)
+  [[params.socialIcons]]
   name = "email"
   url = "mailto:mjmrozek@gmail.com"
 
@@ -53,9 +81,10 @@ theme = 'PaperMod'
   url = "https://github.com/mjmrozek"
 
 
+# Menüeinträge für Englisch
 [[menu.main]]
 name = "Blog"
-url = "/"
+url = "/posts/"
 weight = 1
 
 [[menu.main]]
@@ -80,10 +109,46 @@ weight = 7
 
 [[menu.main]]
 name = "Archives"
-url = "/archives/"
+url = "/en/archives/"  # Angepasst an das Sprachen-Kürzel
 weight = 2
 
 [[menu.main]]
 name = "Tags"
 url = "/tags/"
+weight = 3
+
+# Menüeinträge für Deutsch
+[[languages.de.menu.main]]
+name = "Blog"
+url = "/de/posts/"
+weight = 1
+
+[[languages.de.menu.main]]
+name = "Portfolio"
+url = "/de/portfolio/"
+weight = 4
+
+[[languages.de.menu.main]]
+name = "Business"
+url = "/de/business/"
+weight = 5
+
+[[languages.de.menu.main]]
+name = "Über mich"
+url = "/de/about/"
+weight = 6
+
+[[languages.de.menu.main]]
+name = "Rechtliches"
+url = "/de/legal/"
+weight = 7
+
+[[languages.de.menu.main]]
+name = "Archive"
+url = "/de/archives/"  # Angepasst an das Sprachen-Kürzel
+weight = 2
+
+[[languages.de.menu.main]]
+name = "Tags"
+url = "/de/tags/"
 weight = 3

@@ -7,7 +7,7 @@ draft = false
 
 **Brief Bio:**  
 
-Obsessed with literature, enthusiastic about technology; Studies in philosophy & product development; MBSE expert; Focus on early SDLC phases  
+Obsessed with literature, enthusiastic about technology; Studies in philosophy & product development; MBSE expert; Focus on early SDLC phases.    
 
 ![Alt-Text für das Bild](/img/profile.jpg)
 *Fig. 1: Me at Zeche Zollverein, Essen, Germany - Late Summer 2022*  
@@ -43,25 +43,25 @@ For instance, after only half a year, I’m somewhat critical of my comprehensiv
 
 Under certain circumstances, I might answer some points in detail through blog posts. Here, I strive to articulate the key points in as few sentences as possible – as would be fitting for a conversation.
 
-- Question: Outline your journey so far! How did you get here in the first place?  
-- Decision: After graduating from high school, should I immediately pursue a university degree, or rather embark on a world tour first?  
-- Decision: Choosing the right framework and appropriate tools for product development in the IT sector.  
-- Decision: How do I navigate a professional reorientation?  
-- Challenge: Internalizing a vast amount of information.  
-- Challenge: Structuring a piece of text / Weaving a coherent narrative.  
-- Challenge: Procrastination / Resistance.  
+1. Question: Outline your journey so far! How did you get here in the first place?  
+2. Decision: After graduating from high school, should I immediately pursue a university degree, or rather embark on a world tour first?  
+3. Decision: Choosing the right framework and appropriate tools for product development in the IT sector.  
+4. Decision: How do I navigate a professional reorientation?  
+5. Challenge: Internalizing a vast amount of information.  
+6. Challenge: Structuring a piece of text / Weaving a coherent narrative.  
+7. Challenge: Procrastination / Resistance.  
 
 ---
 
 **Education:**  
 
-- {{< newtab url="https://drive.google.com/file/d/1GuXQ30RDg5OEiFagJ-Jh3Z00gggy6Hf-/view?usp=sharing" text="Tabular Resume as PDF" >}}
+- {{< newtab url="https://drive.google.com/file/d/1GuXQ30RDg5OEiFagJ-Jh3Z00gggy6Hf-/view?usp=sharing" text="Tabular Resume" >}}
 
-- 05.2020 - 02.2022 Rochester Institute of Technology (RITx @ edX): MicroMaster in Design Thinking  
+- 05.2020 - 02.2022: Rochester Institute of Technology (RITx @ edX): MicroMaster in Design Thinking  
     - {{< newtab url="https://www.edx.org/micromasters/ritx-design-thinking?index=product&queryID=460c4c89a538f3882e973e4e3267f586&position=1" text="Learn Design Thinking" >}}
-- 05.2021 - 12.2021 Technion – Israel Institute of Technology (IsraelX @ edX): Professional Certificates in MBSE (Systems Engineering, OPM, ISO 19450)  
+- 05.2021 - 12.2021: Technion – Israel Institute of Technology (IsraelX @ edX): Professional Certificates in MBSE (Systems Engineering, OPM, ISO 19450)  
     - {{< newtab url="https://www.opcloud.tech/" text="OPCloud Website" >}}
-- 2009 - 2019 FernUniversität in Hagen: Bachelor of Arts (B.A.) in Cultural Studies (KuWi > Philo. > th. Philo. > Linguistic Philo. (Thinking & Language, Use Theory) and Heuristics)
+- 2009 - 2019: FernUniversität in Hagen: Bachelor of Arts (B.A.) in Cultural Studies (KuWi > Philo. > th. Philo. > Linguistic Philo. (Thinking & Language, Use Theory) and Heuristics)
     - {{< newtab url="https://www.fernuni-hagen.de/studium/studienangebot/bachelor-kulturwissenschaften.shtml" text="Website of the FernUni in Hagen, Germany, Cultural Studies" >}}
     - {{< newtab url="https://drive.google.com/file/d/1lOOqYRz7GqX5tbB5s9fjeVjtmOYKAEwz/view?usp=sharing" text="Bachelor Thesis" >}}
     - {{< newtab url="https://drive.google.com/file/d/1sBSzJGrih13L1T_3t9Z9kIX4rN1ogF63/view?usp=sharing" text="Homework Assignment" >}}
@@ -78,7 +78,6 @@ Under certain circumstances, I might answer some points in detail through blog p
 
 The following list of books I’ve read and thoroughly processed is not random, but incomplete and spontaneously reconstructed from memory. Like the photo, it is intended to provide only a first impression.
 
-(Where necessary, the original titles are provided in parentheses.)
 
 - Joyce: Ulysses
 - Melville: Moby Dick

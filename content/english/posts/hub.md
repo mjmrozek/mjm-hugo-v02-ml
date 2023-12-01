@@ -8,7 +8,7 @@ tags = ["clarification"]
 
 This **website** is a **hub**, but not in the way a switch star-connects network nodes; it’s more like a **person** in an immutable **center**, seemingly chaotically amalgamating various areas of life, or fields, within itself.
 
-From the menu, it’s clear where everything is located, allowing a **friend** to effortlessly find an **essay**, and a potential **client** to swiftly access my **portfolio**, which predominantly contains **IT projects**.
+From the menu, it’s clear where everything is located, allowing a friend to effortlessly find an essay, and a potential client to swiftly access my portfolio, which predominantly contains IT projects.
 
 For many years, I was a student, then an employee. Currently, I’m self-employed in the IT sector as a freelancer. Soon, I’ll be joining a firm as a Solutions Architect in a parallel role. However, fundamentally, I’m inevitably gravitating towards entrepreneurship.
 

@@ -37,7 +37,7 @@ defaultContentLanguageInSubdir = true # Platzierung der Standard-Sprache in eine
 
 # Spezifische Parameter für Deutsch
 [languages.de.params.homeInfoParams]
-  Title = "Blogging & IT-Lösungen"
+  Title = "Blogging & IT Solutions"
   Content = """
   Diese **Webseite** ist ein **Knotenpunkt**, nur nicht wie ein Switch, der sternförmig Netzwerkknoten miteinander verbindet, 
   sondern als **Person** im unveränderlichen **Zentrum**, die nur scheinbar chaotisch unterschiedlichste Lebensbereiche, bzw. 

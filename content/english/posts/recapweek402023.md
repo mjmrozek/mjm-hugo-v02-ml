@@ -6,7 +6,8 @@ tags = ["recap"]
 +++
 
 **General on Weekly Reviews, Job Offer, Purpose of Reels, Artist Website:**  
-</br></br>
+
+---
 
 How should I start this weekly review? Like in school with an introduction, main body, and conclusion? I’m constantly aware that this text, the blog post, and consequently the reel, are public. But that’s the point. I want to provide insights into my work, let you all participate in my life, and open myself to constructive criticism. I’ll get used to this scrutiny eventually.
 

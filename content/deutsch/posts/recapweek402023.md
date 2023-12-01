@@ -7,6 +7,8 @@ tags = ["recap"]
 
 **Allgemeines zum Wochenrückblick, Jobangebot, Zweck der Reels, Künstlerin-Webseite:**  
 
+---
+
 Wie fange ich denn jetzt konkret so einen Wochenrückblick an? Etwa so wie in der Schule mit Einleitung, Hauptteil und Schluss? Ich habe stets im Hinterkopf, dass dieser Text und also der Blog-Post und darauf aufbauend der Reel öffentlich sind. Aber das wollte ich doch. Ich wollte Einblicke gewähren in meine Arbeit, euch mehr teilhaben lassen an meinem Leben und so meinen Standpunkt auch einer konstruktiven Kritik öffnen. Ich werde mich an dieses Beobachtet-werden schon noch gewöhnen.  
 
 Außerdem: Gegenwärtig besteht eher das Problem, dass überhaupt niemand in irgendeiner Form auf meine Inhalte reagiert und ich bin mir jetzt nicht sicher, ob es sogar schlimmer ist, als wenn jemand in einem Kommentar sagte, dass ich mich lächerlich mache. Ignoriert werden, als Entwertung fasse ich, als deutlich schmerzhafter ein als durch Kritik verworfen zu werden.  

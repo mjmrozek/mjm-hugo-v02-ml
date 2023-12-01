@@ -1,0 +1,89 @@
+baseURL = 'https://mjmrozek.com/'
+languageCode = 'en-us'
+title = 'Matthäus J. Mrozek'
+theme = 'PaperMod'
+
+
+
+[params]
+  showPostNavLinks = true
+  showShareButtons = true
+  showBreadCrumbs = true
+  mainSections = ["posts"]
+
+ [params.homeInfoParams]
+  Title = "Blogging & IT Solutions"
+  Content = """This **website** is a **hub**, but not in the way a switch star-connects network nodes; it’s more like a **person** in an immutable **center**, seemingly chaotically 
+  amalgamating various areas of life, or fields, within itself. [Read more...](/posts/hub/)"""
+
+
+
+
+
+   [[params.socialIcons]]
+  name = "email"
+  url = "mailto:mjmrozek@gmail.com"
+
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/mjmrozek"
+
+  [[params.socialIcons]]
+  name = "facebook"
+  url = "https://www.facebook.com/matthaeusjmrozek"
+
+  [[params.socialIcons]]
+  name = "instagram"
+  url = "https://www.instagram.com/mjmrozek/"
+
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/mjmrozek/"
+
+  [[params.socialIcons]]
+  name = "youtube"
+  url = "https://www.youtube.com/@mjmrozek"
+
+   [[params.socialIcons]]
+  name = "youtube"
+  url = "https://www.youtube.com/@mjmrozek-en"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/mjmrozek"
+
+
+[[menu.main]]
+name = "Blog"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Portfolio"
+url = "/portfolio/"
+weight = 4
+
+[[menu.main]]
+name = "Business"
+url = "/business/"
+weight = 5
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 6
+
+[[menu.main]]
+name = "Legal"
+url = "/legal/"
+weight = 7
+
+[[menu.main]]
+name = "Archives"
+url = "/archives/"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 3

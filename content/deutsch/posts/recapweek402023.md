@@ -1,41 +1,40 @@
 +++
-title = 'Recap Week 40 (2023)'
+title = 'Rückblick KW 40 (2023)'
 date = 2023-10-08T06:04:05+01:00
 draft = false
 tags = ["recap"]
 +++
 
-**General on Weekly Reviews, Job Offer, Purpose of Reels, Artist Website:**  
-</br></br>
+**Allgemeines zum Wochenrückblick, Jobangebot, Zweck der Reels, Künstlerin-Webseite:**  
 
-How should I start this weekly review? Like in school with an introduction, main body, and conclusion? I’m constantly aware that this text, the blog post, and consequently the reel, are public. But that’s the point. I want to provide insights into my work, let you all participate in my life, and open myself to constructive criticism. I’ll get used to this scrutiny eventually.
+Wie fange ich denn jetzt konkret so einen Wochenrückblick an? Etwa so wie in der Schule mit Einleitung, Hauptteil und Schluss? Ich habe stets im Hinterkopf, dass dieser Text und also der Blog-Post und darauf aufbauend der Reel öffentlich sind. Aber das wollte ich doch. Ich wollte Einblicke gewähren in meine Arbeit, euch mehr teilhaben lassen an meinem Leben und so meinen Standpunkt auch einer konstruktiven Kritik öffnen. Ich werde mich an dieses Beobachtet-werden schon noch gewöhnen.  
 
-Moreover, the current problem is that no one is responding to my content in any form, which I find more painful than receiving criticism. Being ignored feels like devaluation, even worse than being rejected through criticism.
+Außerdem: Gegenwärtig besteht eher das Problem, dass überhaupt niemand in irgendeiner Form auf meine Inhalte reagiert und ich bin mir jetzt nicht sicher, ob es sogar schlimmer ist, als wenn jemand in einem Kommentar sagte, dass ich mich lächerlich mache. Ignoriert werden, als Entwertung fasse ich, als deutlich schmerzhafter ein als durch Kritik verworfen zu werden.  
 
-For now, I’ll continue in this conversational tone, this “thinking aloud,” which is how I’ve been writing my private, non-public weekly reviews for a long time. Changing it would make the task more cumbersome and probably result in me dropping the whole thing. Mr. Beast comes to mind; he mentioned in a podcast that videos lose viewers within seconds if they don’t meet expectations quickly. The title “Weekly Review…” suggests a starting point like, “Hey guys, last week I was in Las Vegas to check out the MSG Sphere…” and it irritates me when, for example, a tutorial only starts after five minutes of blabbering.
+Gut, ich fahre vorerst in diesem Plauderton, in diesem Laut-denken fort. Denn so verfasse ich bereits seit langem meine nicht öffentlichen, persönlichen Wochenrückblicke und warum sollte ich jetzt etwas daran ändern? Es würde mir die Arbeit erschweren und es wahrscheinlicher machen, dass ich das Ganze einfach sein lasse. Jetzt kommt mir Mr. Beast in den Sinn. Er macht in irgendeinem Podcast auf den einen großen Fehler vieler Videos aufmerksam und warum Zuschauer sie nach wenigen Sekunden abbrechen. Nämlich, wenn die Erwartung nicht schnell genug oder überhaupt nicht erfüllt wird. Die ersten Augenblicke sind dafür entscheidend. Der Titel „Wochenrückblick …“ suggeriert einen Anfang wie: „Hallo Leute, letzte Woche war ich in Las Vegas, um die MSG Sphere anzuschauen …“ und mich regt es meist auch furchtbar auf, wenn beispielsweise ein Tutorial erst nach fünf Minuten mit der Anleitung für ein Problem anfängt und die erste Hälfte des Videos aus Geschwafel besteht.  
 
-In any case, my approach to this weekly review is like that to a diary, albeit covering a longer period, and with the same attitude. I predominantly report in the historical present tense about mistakes, successes, insights, etc., holding back as little as possible, being as open as can be. Of course, the limits of this in a public format must first be explored. This somewhat tedious preamble is necessary because I am reflecting here on an experimental transfer from previously private notes to the freely accessible medium of a blog.
-
----
-
-Now, I’m abruptly turning to a pleasant event from yesterday, while intentionally remaining vague due to a desire for some discretion. A recruiter reached out to me via LinkedIn. He praised my diverse IT skills and inquired if I was interested in a Help Desk job. His initial offer was far too low, and I declined with a brief reply, “Thanks for the praise, but your offer is well below my usual hourly rate, and therefore I’m not interested.”
-
-Late at night, however, I received a better offer closely matching my freelance hourly rate, which got me thinking. The pay would be almost in the five figures and more than double compared to my last salaried job.
-
-Now I face a dilemma. Initially, I never planned to become a freelance IT professional. After my philosophy studies, I reoriented myself, acquired various IT skills, and simply wanted to land any IT job. Thus, a well-paid Help Desk job would be a significant success. The recruiter’s offer is genuinely tempting, yet I can’t accept it.
-
-As I read the message in bed, I was about to close all open apps, a bad habit. I swiped up from the bottom of the display, closed the LinkedIn app, and then, as if by reflex or divine intervention, tapped on the Instagram app. A post by Alex Hormozi appeared, essentially saying, “If you want to be a millionaire, don’t take these 10k offers. Think big!” I immediately recalled my last employment in IT, which I ultimately considered a big mistake. I had always been freelancing on the side and felt like I was betraying myself by accepting the stability of employment over my entrepreneurial dreams.
+Jedenfalls verhalte ich mich gegenüber diesem Wochenrückblick wie gegenüber einem Tagebuch, nur eben in Bezug auf einen längeren Zeitraum, aber mit derselben Haltung, in dem ich vorwiegend im historischen Präsens von Fehlern, Erfolgen, Einsichten usw. berichte und möglichst nichts zurückhalte, also so offen bin, wie es geht, was natürlich in der öffentlichen Form erst ausgelotet werden muss. Diese, für manche vielleicht langweilige Vorrede, ist wichtig, da ich hier über einen experimentellen Transfer von bisher privaten Notizen in das frei zugängliche Medium eines Blogs reflektiere.
 
 ---
 
-Initially, I didn’t plan to be active on Instagram and Facebook. I merely wanted to supplement my website portfolio with a blog and write about various topics. Effective PR is necessary for any online presence to attract visitors, comments, etc., and reels on two interconnected social media platforms seemed ideal for this. Through the blog and short videos, I want to demonstrate that I can communicate decently and organize my thoughts in an understandable way. This is one of two attributes I’d like to be associated with me long-term. My IT and entrepreneurship skills are made clear through my portfolio and posts on Facebook pages that I manage.
+Nun widme ich mich abrupt einem erfreulichen Ereignis von gestern zu und bleibe dabei bewusst vage, da ich vorläufig eine gewisse Diskretion wahren will: Es schreibt mich via LinkedIn ein Recruiter an. Er lobt meine vielfältigen IT-Skills und will wissen, ob ich Interesse hätte an einem Help-Desk-Job. Sein erstes Angebot ist viel zu niedrig und ich winke ab mit der kurzen Antwort: „Danke für das Lob, aber Ihr Angebot liegt weit unter meinem üblichen Stundensatz und deshalb habe ich kein Interesse.“  
 
-My other reels, formatted as slideshows with rhythmic cuts and nice music, seemed entertaining at first. If the objects in these slideshows aren’t inherently interesting, like a charging brown bear, then their value to the viewer eludes me. That’s why, in the future, I plan to add commentary to, for example, a reel about a restaurant visit to provide added value.
+Spät abends bekomme ich dann allerdings ein besseres Angebot, das sich so stark an meinen Stundensatz als Freelancer annähert, dass ich ins Grübeln komme. Der Verdienst wäre beinahe fünfstellig und mehr als doppelt so hoch wie während meines letzten Angestelltenverhältnisses.  
+
+Jetzt habe ich ein Problem. Denn ursprünglich hatte ich nie geplant, mich als ITler selbständig zu machen. Nach meinem Philosophiestudium orientierte ich mich um, bildete mich fort in diversen IT-Skills und wollte vor allem überhaupt einen IT-Job ergattern. Und so ein sehr gut bezahlter Help-Desk-Job wäre also ein großer Erfolg. Das Angebot des Recruiters ist tatsächlich verführerisch, nur kann ich es nicht annehmen.  
+
+Ich liege beim Lesen der Nachricht schon im Bett und bin dabei, aus einer blöden Angewohnheit, alle offenen Apps zu schließen, und so wische ich mit einem Finger vom unteren Displayrand her hoch, beende die LinkedIn-App und tippe dann doch, wie aus Reflex oder durch eine göttliche Fügung, auf die Instagram-App. Prompt taucht ein Beitrag Alex Hormozis auf, der sinngemäß erklärt: „Wenn du ein Millionär werden willst, dann gehe nicht ein auf diese 10k-Angebote. Denke groß!“  
+
+Sofort erinnere ich mich an mein letztes Angestelltenverhältnis als ITler. Es war durchaus eine interessante Erfahrung. Insgesamt verbuche ich den Job allerdings als großen Fehler. Denn ich war parallel immer noch Freiberufler und unterbrach also für fast ein halbes meine bisherigen offenen Projekte. Gefühlsmäßig beging ich einen Verrat an mir selbst. Für die Sicherheit eines Angestelltenverhältnisses gab ich meinen Traum vom Unternehmertum auf. Die schwierigste erste Phase meiner Selbständigkeit wäre umsonst gewesen. Alles in mir sagte damals, so gut es eben konnte „Matthäus, hör auf! Geh zurück. Beende, was du angefangen hast!“
 
 ---
 
-I’m currently working on a website for a painter. The aim is to present her portfolio and also enable the purchase of her works through a shop. In addition to physical originals, I’m planning to offer prints and, through integration with OpenSea, NFTs. Lastly, we’ll offer painting courses.
+Übrigens hatte ich zunächst nicht vor, auf Instagram und Facebook aktiver zu werden. Ich wollte bloß auf meiner Webseite ergänzend zum Portfolio auch einen Blog führen und dort über allerlei Themen schreiben. Wenn man sich schon die Mühe mit einer Online-Präsenz macht, dann will man auch, dass sie Besucher hat, die Kommentare abgeben usw. Jedenfalls ist dafür irgendeine Form von PR einfach notwendig und Teaser als Reels auf zwei miteinander verbundenen Social-Media-Plattformen erschienen mir dafür ideal. Mit dem Blog und den kurzen Videos will euch zeigen, dass ich zumindest einigermaßen anständig kommunizieren und meine Gedanken in verständlicher Weise ordnen kann. Das ist eine von zwei Eigenschaften, die langfristig mit meiner Person in Verbindung gebracht werden sollen. Fähigkeiten aus den Bereichen IT und Unternehmertum werden durch mein Portfolio und Beiträgen auf von mir verwalteten Facebookseiten deutlich gemacht.  
 
-Challenges have emerged late in this project, more related to communication than technical aspects. I’ll report more on this next week.
+Meine anderen Reels in Form von Diashows mit an den Takt angepasstem Schnitt und netter Musik hielt ich nur zu Beginn für unterhaltsam. Sie zeigen beispielsweise meine Vorliebe für japanisches Essen und die Begeisterung für die ungewöhnlich lebenswerte Landeshauptstadt Nordrheinwestfalens. Sind die in solchen Diashows dargestellten Objekte nicht an sich sehr interessant, wie ein auf den Kameramann wütend zulaufender Braunbär, dann erschließt sich mir ihr Wert für den Zuschauer nicht. Deshalb will ich zukünftig beispielsweise bei einem Reel über einen Restaurantbesuch auch etwas sagen und so einen Mehrwert liefern.
 
-(Based on my German-language blog post from October 08, 2023.)
+---
+
+Ich arbeite zurzeit an einer Webseite für eine Malerin. Dort soll ihr Portfolio präsentiert werden. Außerdem soll über einen Shop auch ein Kauf ihrer Werke möglich sein. Zusätzlich zum Erwerb der physischen Originale plane ich auch den Verkauf von Drucken und über eine Kopplung an OpenSea auch den Verkauf vonNFTs. Und zuletzt werden wir auch Malkurse anbieten.  
+
+Bei diesem Projekt bin ich erst spät auf Probleme gestoßen, die weniger mit den technischen Aspekten als viel mehr mit der Kommunikation zusammenhängen. Darüber werde ich nächste Woche mehr berichten.

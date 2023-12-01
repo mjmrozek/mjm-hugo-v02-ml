@@ -1,64 +1,61 @@
 +++
-title = "Legal"
+title = "Rechtliches"
 date = 2023-01-01T00:00:00Z
 draft = false
 +++
 
-
-**Imprint:**  
+**Impressum:**
 
 Matthäus J. Mrozek  
 c/o Grosch Postflex #2326  
 Emsdettener Str. 10  
 48268 Greven  
-Germany  
+Deutschland  
 
-E-Mail: mjmrozek@gmail.com   
-Phone: +49 177 456 7738  
-(Note: No phone hotline. The phone number is provided due to mandatory disclosure.)
+E-Mail: mjmrozek@gmail.com  
+Telefon: +49 177 456 7738  
+(Hinweis: Keine telefonische Hotline. Die Telefonnummer wird aufgrund gesetzlicher Offenlegungspflichten bereitgestellt.)  
 
----
+---  
 
-**Disclaimer:**  
+**Haftungsausschluss:**  
 
-The content on my website is created with care, yet I cannot guarantee its accuracy, completeness, or timeliness.
+Die Inhalte meiner Website werden mit größter Sorgfalt erstellt, dennoch kann ich keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte übernehmen.  
 
-I am not responsible for any content linked or referred to from my pages on external platforms like Twitter, Instagram, LinkedIn, GitHub, and YouTube, as I have no control over them. The respective operators are accountable for their content.
+Ich übernehme keine Verantwortung für Inhalte, auf die von meinen Seiten auf externen Plattformen wie Twitter, Instagram, LinkedIn, GitHub und YouTube verlinkt oder verwiesen wird, da ich keinen Einfluss darauf habe. Die jeweiligen Betreiber sind für ihre Inhalte verantwortlich.  
 
-Should any legal infringement become known to me, I will remove the offending content promptly.
+Sollten mir Rechtsverletzungen bekannt werden, werde ich die betreffenden Inhalte umgehend entfernen.  
 
-Personal data provided to me through contact inquiries is solely used to respond to these inquiries. Any further use only occurs with explicit consent.
+Personenbezogene Daten, die mir über Kontaktanfragen zugehen, werden ausschließlich zur Beantwortung dieser Anfragen verwendet. Eine weitergehende Nutzung erfolgt nur mit ausdrücklicher Zustimmung.  
 
+---  
 
----
+**Nutzungsbedingungen für meine Inhalte:**  
 
-**Terms of Use for My Content:**  
+Alle mit mir in Verbindung stehenden Inhalte, unabhängig von der Plattform, sind geistiges Eigentum von Matthäus J. Mrozek.  
 
-All content associated with me, regardless of the platform, is the intellectual property of Matthäus J. Mrozek.
+Ich begrüße das Teilen und die Diskussion über meine Arbeit. Sollten Sie sich entschließen, meine Inhalte zu teilen oder zu diskutieren, tun Sie dies bitte verantwortungsbewusst und unter angemessener Anerkennung meiner Urheberschaft.  
 
-I welcome the sharing and discourse surrounding my work. Should you choose to share or discuss my content, please do so responsibly, with proper credit to me as the source and author.
+Die kommerzielle Verwertung meiner Inhalte ohne meine ausdrückliche Erlaubnis ist strengstens untersagt. Dies umfasst jegliche Verkaufs- oder Monetarisierungsbestrebungen, die meine Arbeit ohne angemessene Anerkennung einbeziehen.  
 
-Commercial exploitation of my content without my explicit permission is strictly forbidden. This includes any sales or monetization efforts involving my work without due credit.
+Die Nutzung meiner Inhalte in einer Weise, die internationale oder nationale Gesetze verletzt, mit Gewalt in Verbindung steht oder als anstößig aufgefasst werden könnte, ist strengstens untersagt.  
 
-The use of my content in a manner that infringes upon international or national laws, is linked to violence, or could be construed as offensive, is strictly forbidden.
+Ich behalte mir das Recht vor, bei Verstoß gegen diese Bedingungen rechtliche Schritte einzuleiten.  
 
-I retain the right to pursue legal action in the event of a breach of these terms.
+Bei jeder Verwendung meiner Inhalte bitte ich um eine klare und sichtbare Zuschreibung, die auf meine Urheberschaft hinweist.  
 
-In any instance where my content is utilized, I ask for a clear and visible attribution, referencing my authorship.
+Die Auseinandersetzung mit meinen Inhalten, sei es über direkten Zugriff oder auf einem sozialen Netzwerk, impliziert die Akzeptanz dieser Bedingungen. Sollten Sie Fragen haben oder eine Klärung bezüglich der zulässigen Nutzung meiner Inhalte benötigen, kontaktieren Sie mich bitte direkt.  
 
-Engagement with my content, be it via direct access or on any social network, implies acceptance of these terms. Should you have any questions or require clarification regarding the permissible use of my content, please reach out to me directly.
+---  
 
----
+**Offenlegung der Zusammenarbeit mit KI:**  
 
-**AI Collaboration Disclosure:**  
+Ich nutze fortschrittliche KI-Tools, einschließlich OpenAIs ChatGPT, um bei der Erstellung und Verfeinerung von Inhalten auf meinen Plattformen zu helfen. Obwohl ich diese Beiträge als Teil meines eigenen Werks präsentieren kann, glaube ich an Transparenz bezüglich der Verwendung von KI in meinem kreativen Prozess.  
 
-I engage with advanced AI tools, including OpenAI's ChatGPT, to aid in the creation and refinement of content across my platforms. While I may present these contributions as part of my own body of work, I believe in transparency regarding the use of AI in my creative process.
+Die durch KI verbesserten Inhalte umfassen verschiedene Formate und finden sich sowohl auf meinen Websites als auch auf sozialen Medien. Diese KI-gestützten Schriften fließen auch in multimediale Inhalte ein, wie meine YouTube-Videos.  
 
-The content enhanced by AI spans various formats and can be found on my websites as well as social media channels. These AI-enhanced writings also inform multimedia content, like my YouTube videos.
+Anstatt das Ausmaß der KI-Beteiligung zu kategorisieren, erkenne ich, dass KI ein wesentliches Werkzeug in der modernen kreativen Landschaft ist und Unterstützung bietet, die von grundlegenden Sprachkorrekturen bis hin zu substantiellerer kompositorischer Unterstützung reicht. Unabhängig vom Grad der KI-Unterstützung ist das Streben nach Authentizität und Originalität in meiner Arbeit eine Konstante, und ich bin bestrebt sicherzustellen, dass das Wesen der Inhalte wirklich meine Perspektiven und Einsichten widerspiegelt.  
 
-Rather than categorize the extent of AI involvement, I recognize that AI is an integral tool in the modern creative landscape, providing assistance that ranges from basic language corrections to more substantial compositional support. Regardless of the level of AI assistance, the pursuit of authenticity and originality in my work is a constant, and I am committed to ensuring that the essence of the content is genuinely reflective of my perspectives and insights.
-
-Please consider that the integration of AI in my work is done thoughtfully, with a discerning eye toward maintaining the integrity of my voice and the quality of my content.
-
+Bitte berücksichtigen Sie, dass die Integration von KI in meine Arbeit wohlüberlegt erfolgt, mit einem kritischen Blick darauf, die Integrität meiner Stimme und die Qualität meiner Inhalte zu wahren.
 
 

@@ -1,20 +1,18 @@
 +++
-title = 'Recap Week 38 (2023)'
+title = 'Rückblick KW 38 (2023)'
 date = 2023-09-24T06:02:46+01:00
 draft = false
 tags = ["recap"]
 +++
 
-It was 2019, and I abandoned my original plan. Instead of becoming a lecturer in language philosophy, I pivoted. Driven by a passion for technology and entrepreneurial ambition, I furthered my education in product development, systems engineering, WordPress, and so on.
+Es ist 2019, und ich gebe meinen ursprünglichen Plan auf. Statt Dozent für Sprachphilosophie zu werden, orientiere ich mich um. Ich bin technikbegeistert und unternehmerisch ambitioniert, deshalb bilde ich mich weiter in Produktentwicklung, Systemtechnik, WordPress usw.
 
-Fast forward to the summer of 2021. I mustered the courage, quit my student job at a transshipment base, became a freelancer, and began designing websites and offering IT support.
+Inzwischen ist es Sommer 2021. Ich fasse meinen Mut zusammen, kündige meinen Studentenjob in einer Umschlagbasis, mache mich als Freiberufler selbständig und erstelle fortan Webseiten und biete IT-Support an.
 
-Yet, my deep passion for beautiful literature persisted. As a result, I planned to add a weekly blog post about my reading experiences or intriguing everyday adventures.
+Meine große Leidenschaft für schöne Literatur lässt mich allerdings nicht los. Deshalb plane ich zusätzlich einen wöchentlichen Blog-Post über meine Leseerlebnisse oder spannende Alltagserfahrungen.
 
-Perhaps you know the feeling? You draft a plan, it sounds sensible, well thought out, but then you realize it’s too complex or its execution overwhelms you. At any rate, I underestimated the effort required for such a weekly blog post.
+Vielleicht kennt ihr das? Ihr entwickelt einen Plan, er klingt vernünftig, erscheint durchdacht, dann merkt ihr, dass er doch zu kompliziert ist oder dass seine Umsetzung euch doch überfordert. Jedenfalls habe ich den Aufwand für so einen wöchentlichen Blog-Post unterschätzt.
 
-Then, a relieving idea struck me: Why not write a review at the end of each workweek, as a blog post of any length and a short version in the form of a reel? Working in IT and reflecting weekly on my journey – that will work. It wonderfully aligns, and these two aspects even benefit from each other.
+Und plötzlich hatte ich einen erleichternden Einfall: Warum nicht am Ende einer jeden Arbeitswoche einen Rückblick verfassen, als Blog-Post in beliebiger Länge und als Kurzfassung in Form eines Reels? Nur als ITler arbeiten und wöchentlich über meinen Weg reflektieren – das wird funktionieren, das lässt sich wunderbar miteinander vereinbaren, diese beiden Bereiche profitieren sogar voneinander.
 
-But above all: This isn’t an IT review! Join me on my exciting journey towards building a good life based on the principles of MJ De Marco.
-
-(Based on my German-language blog post from September 23, 2023.)
+Aber vor allem: Dies ist keine IT-Rückschau! Begleitet mich auf meiner spannenden Reise hin zum Aufbau eines guten Lebens nach den Prinzipien von MJ De Marco.

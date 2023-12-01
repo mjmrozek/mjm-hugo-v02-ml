@@ -1,17 +1,20 @@
 +++
-title = 'Recap Week 41 (2023)'
+title = 'WoRü KW41/2023: Umfrage, Künstlerin-Webseite'
 date = 2023-10-16T06:04:20+01:00
 draft = false
 tags = ["recap"]
 +++
 
-**Survey:**  
-Several times during the week I write down important events from my life, interesting facts, thoughts and opinions on various topics and then present a selection of them in the form of a single post, like this one that I’m currently reading. The other option would be to post several times during the week and thus create shorter, more compact and more topic-specific posts. I would be interested to know which option you like better. For me, a single, longer weekly review as a collection of different topics involves significantly less work. When making your decision, you should not ignore the fact that my well-being contributes significantly to the quality of the texts.
+**Umfrage:**  
+Während der Woche notiere ich mir mehrmals wichtige Begebenheiten aus meinem Leben, interessante Sachverhalte, Gedanken und Meinungen zu diversen Themen und präsentiere dann eine Auswahl davon in Form eines einzigen Posts, so wie diesem hier, den ich gerade vorlese. Die andere Möglichkeit wäre, während der Woche mehrmals zu posten und somit kürzere, kompaktere und thematisch stärker eingegrenzte Beiträge zu erstellen. Mich würde interessieren, welche Option euch besser gefällt. Für mich ist ein einzelner, längerer Wochenrückblick als Sammlung unterschiedlicher Themen mit deutlich weniger Arbeit verbunden. Ihr solltet bei eurer Entscheidung nicht außer Acht lassen, dass mein Wohlbefinden wesentlich zur Qualität der Texte beiträgt.
 
-**Artist website:**  
-This year I was employed full-time as a solutions architect for six months, where I created online forms. I remained self-employed part-time. This parallel freelance work shouldn’t be a secret, and that’s why it was expressly noted in the employment contract. I wanted to work on any outstanding projects from the previous year in the evenings or weekends and, if possible, not take on any new ones for the time being.
-However, a great opportunity to create a comprehensive website for an artist came up and I took it. We got to know each other better during a short phone call. The chemistry was right. The most important goals were quickly formulated, the plan for their implementation was easily outlined, and we both looked forward to a promising collaboration with confidence.
-I outlined the advantages of having your own website and the various opportunities to earn money through online courses and web3 services in addition to selling your works. At the same time, I made it clear that we would proceed slowly at first and generally only gradually, and that it would take time until all goals were achieved.
-She is an ideal test customer and her project will look very good in my portfolio, which is not yet too convincing. A homepage including an “About Me” section and a gallery of her most important images was quickly set up and available online. I was unable to implement shop integration, Mint, dropping and integrating NFTs and painting courses either in terms of time or energy. The dream of building multiple streams of income was shattered and quickly replaced by a new dream, a simple, honest, realistic idea of working on just one project at a time, of concentrating all your energy on one point. Like in the movie “Glengarry Glen Ross” with Alec Baldwin: “ABC! Always be closing”, here in the sense of bringing things to an end. I have been exclusively self-employed for over three months and can therefore invest more time in this project. The website with the specified functionality is expected to be ready next week.
+---
 
-(Based on my German-language blog post from October 16, 2023.)
+**Künstlerin-Webseite:**  
+Ich war dieses Jahr für sechs Monate hauptberuflich als Solutions Architekt angestellt und erstellte dort Online-Formulare. Nebenberuflich blieb ich selbstständig. Diese parallele Freiberuflichkeit sollte kein Geheimnis sein, und deshalb war sie ausdrücklich im Arbeitsvertrag vermerkt. Ich wollte noch offene Projekte aus dem Vorjahr abends oder am Wochenende abarbeiten und möglichst vorerst keine neuen annehmen.  
+
+Es ergab sich allerdings eine großartige Möglichkeit, für eine Künstlerin eine umfangreiche Webseite zu erstellen, und ich ergriff sie. Während eines kurzen Telefonats lernten wir uns besser kennen. Die Chemie stimmte. Die wichtigsten Ziele waren rasch formuliert, der Plan für ihre Umsetzung mühelos skizziert, und wir beide sahen zuversichtlich einer erfolgversprechenden Zusammenarbeit entgegen.  
+
+Ich umriss die Vorteile einer eigenen Webseite und die vielfältigen Möglichkeiten, neben dem Verkauf ihrer Werke auch durch Online-Kurse und web3-Services Geld zu verdienen. Gleichzeitig machte ich deutlich, dass wir zuerst langsam und im Allgemeinen immer nur schrittweise vorgehen würden und es also dauern würde, bis alle Ziele erreicht wären.  
+
+Sie ist eine ideale Testkundin, und ihr Projekt wird sich sehr gut in meinem noch nicht allzu überzeugenden Portfolio machen. Eine Startseite samt „About-me“-Bereich und einer Galerie ihrer wichtigsten Bilder war schnell aufgebaut und online verfügbar. Eine Shop-Integration, Mint, Dropping und Einbindung von NFTs und Malkursen konnte ich weder zeitlich noch kräftemäßig umsetzen. Der Traum vom Aufbau multipler Einkommensströme war geplatzt und schnell ersetzt durch einen neuen Traum, einer einfachen, ehrlichen, realistischen Vorstellung, nämlich vom Arbeiten an nur einem einzigen Projekt zur selben Zeit, vom Konzentrieren aller Kraft auf einen Punkt. Wie im Film „Glengarry Glen Ross“ mit Alec Baldwin: „ABC! Always be closing“, hier im Sinne von Dinge zu Ende bringen. Seit über drei Monaten bin ich ausschließlich selbstständig und kann daher mehr Zeit in dieses Projekt investieren. Die Webseite mit der angegebenen Funktionalität wird voraussichtlich nächste Woche fertig.

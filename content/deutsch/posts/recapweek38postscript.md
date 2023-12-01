@@ -1,20 +1,18 @@
 +++
-title = 'Postscript on: Recap Week 38 (2023)'
+title = 'Nachtrag zu: Rückblick KW 38 (2023)'
 date = 2023-09-30T06:20:22+01:00
 draft = false
 tags = ["recap", "postscript"]
 +++
 
-It was my first Reel with voiceover, and for the first time, I offered a relatively deep insight into my life in this format. Therefore, I was especially eager to see your reactions and the number of views, which is why I watched it myself multiple times. This felt like a change in perspective. As soon as the Reel was online, I viewed it differently and, above all, more closely.
+Es war mein erstes Reel mit Voiceover, und zum ersten Mal gewährte ich in dieser Form einen verhältnismäßig tiefen Einblick in mein Leben. Deshalb war ich besonders gespannt auf eure Reaktionen und die Anzahl der Aufrufe, weshalb ich es mir selbst mehrmals ansah. Das fühlte sich wie ein Perspektivenwechsel an. Sobald das Reel online war, betrachtete ich es anders und vor allem genauer.
 
-In any case, I made a mistake. But this time, I won’t delete it. Like in software development, I have decided to proceed incrementally, iteratively, and empirically. The motto is: “Against paralyzing perfectionism” and “Pro Show your Work,” despite or precisely because of all the mistakes.
+Jedenfalls unterlief mir ein Fehler. Diesmal werde ich es aber nicht wieder löschen. Ich habe mir vorgenommen, wie in der Softwareentwicklung, inkrementell, iterativ und empirisch vorzugehen. Die Devise lautet: „Contra lähmender Perfektionismus“ und „Pro Show your Work“, und zwar trotz oder gerade mit allen Fehlern.
 
-So, I walk in the twilight to exciting music, somewhat unsteady on a narrow wall, towards an upscale residential building, roughly summarizing my development over the last few years as well as a significant realization. Hopefully, this is entertaining and generally acceptable.
+Ich laufe also in der Dämmerung bei spannender Musik, etwas wackelig auf einer schmalen Mauer, auf ein nobles Wohngebäude zu und fasse dabei grob meine Entwicklung der letzten Jahre sowie eine große Einsicht zusammen. Das ist hoffentlich unterhaltend und soweit in Ordnung.
 
-However, the attentive listener must have noticed a contradiction. First, I complain about all the work a blog requires, and then I state that I plan to write a weekly review as a blog.
+Der aufmerksame Zuhörer muss allerdings einen Widerspruch bemerkt haben. Zuerst beklage ich mich über die ganze Arbeit, die ein Blog erfordert, und erkläre dann, dass ich deshalb eine wöchentliche Rückschau als Blog plane.
 
-Only: a blog about my reading of, for example, “12 Rules for Life” requires considerably more work. I’ve been conducting a review for myself for a long time anyway because it’s a good writing exercise and helps in organizing thoughts, etc.
+Nur: Ein Blog über meine Lektüre von z. B. „12 Rules for Life“ erfordert ungleich mehr Arbeit. Eine Rückschau führe ich für mich selbst seit langem sowieso durch, denn sie ist eine gute Schreibübung und hilft beim Ordnen der Gedanken usw.
 
-And did anyone wonder how to fit such a review into 90 seconds? These Reels are essentially teasers for the more extensive blog posts. They only show the highlights and are intended to pique interest for more.
-
-(Based on my German-language blog post from September 30, 2023.)
+Und wunderte es jemanden, wie so eine Rückschau in 90 Sekunden unterzubringen ist? Diese Reels sind gewissermaßen als Teaser für die umfangreicheren Blog-Posts zu verstehen. Sie zeigen also nur die Highlights und sollen Interesse für mehr wecken.

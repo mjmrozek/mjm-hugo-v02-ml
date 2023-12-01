@@ -58,7 +58,7 @@ Unter Umständen werde ich einige Punkte ausführlich als Blog-Posts beantworten
 - {{< newtab url="https://drive.google.com/file/d/1GuXQ30RDg5OEiFagJ-Jh3Z00gggy6Hf-/view?usp=sharing" text="Tabelarischer Lebenslauf" >}}
 
 - 05.2020 - 02.2022: Rochester Institute of Technology (RITx @ edX): MicroMaster-Programm in Design Thinking  
-    - {{< newtab url="https://www.edx.org/micromasters/ritx-design-thinking?index=product&queryID=460c4c89a538f3882e973e4e3267f586&position=1" text="Learn Design Thinking" >}}
+    - {{< newtab url="https://www.edx.org/micromasters/ritx-design-thinking?index=product&queryID=460c4c89a538f3882e973e4e3267f586&position=1" text="Lerne Design-Thinking" >}}
 - 05.2021 - 12.2021: Technion - Israel Institute of Technology (IsraelX @ edX): Professionelle Zertifikate in MBSE (Systemtechnik, OPM, ISO 19450)
     - {{< newtab url="https://www.opcloud.tech/" text="OPCloud Webseite" >}}
 - 2009 - 2019: Bachelor of Arts (B.A.) im Studiengang Kulturwissenschaften (KuWi > Philo. > th. Philo. > Sprachphilo. (Denken & Sprache, Gebrauchstheorie der Sprache) und Heuristik)

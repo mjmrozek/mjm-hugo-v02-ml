@@ -1,16 +1,23 @@
 +++
-title = 'A Fracture, Jack, the Tank, Mother'
+title = 'The Fracture, Jack, the Tank, Mother'
 date = 2023-08-23T06:02:03+01:00
 draft = false
 tags = ["fiction", "sketch"]
 +++
 
-**A Fracture:**  
-My little sister looks at me with a peculiar expression, holds two connected track pieces, and threatens to break them if I don’t pick her up. I suffer a hernia, but I still hold her. The Christ child focuses only on me. I don’t feel any pain.
+**The Fracture:**
+My little sister looks at me with a peculiar expression, holds two connected track pieces, and threatens to break them if I don’t pick her up. I suffer a hernia, but I still hold her. 
+
+The Christ child focuses only on me. I don’t feel any pain.
+
 My mother chides, “Don’t kick your socks onto the wardrobe again!”
+
 I simply lose interest in playing with the toy train. Rather, I’m still enamored by the toy, but fear currently dominates my emotions.
+
 My father places me on his lap. I dislike it, so I slide onto a chair. He then explains that even minor cuts on the ear bleed profusely. Meanwhile, my gaze shifts between him and the overflowing aquarium. There are small fish in it. Regrettably, I fed them with an entire loaf of bread.
+
 Something inside of me has broken. Hence, I’m scared, deathly scared, and wonder about heaven. My answer leads to doubt and isolation.
+
 Something cold and sticky flows into my nose. It feels like I’m doing a handstand underwater. I’m on the brink of drowning, yet I breathe deeply and see hazily. Someone opens the bathroom door. I can’t recognize the intruder, but I feel the pressure of their hand on my neck. Sounds, like chatter, reach my ears.
 
 **What will you do, Jack?**  

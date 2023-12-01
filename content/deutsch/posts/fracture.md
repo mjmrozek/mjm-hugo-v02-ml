@@ -1,26 +1,30 @@
 +++
-title = 'A Fracture, Jack, the Tank, Mother'
+title = 'Der Bruch, Jack, der Tank, Mutter'
 date = 2023-08-23T06:02:03+01:00
 draft = false
 tags = ["fiction", "sketch"]
 +++
 
-**A Fracture:**  
-My little sister looks at me with a peculiar expression, holds two connected track pieces, and threatens to break them if I don’t pick her up. I suffer a hernia, but I still hold her. The Christ child focuses only on me. I don’t feel any pain.
-My mother chides, “Don’t kick your socks onto the wardrobe again!”
-I simply lose interest in playing with the toy train. Rather, I’m still enamored by the toy, but fear currently dominates my emotions.
-My father places me on his lap. I dislike it, so I slide onto a chair. He then explains that even minor cuts on the ear bleed profusely. Meanwhile, my gaze shifts between him and the overflowing aquarium. There are small fish in it. Regrettably, I fed them with an entire loaf of bread.
-Something inside of me has broken. Hence, I’m scared, deathly scared, and wonder about heaven. My answer leads to doubt and isolation.
-Something cold and sticky flows into my nose. It feels like I’m doing a handstand underwater. I’m on the brink of drowning, yet I breathe deeply and see hazily. Someone opens the bathroom door. I can’t recognize the intruder, but I feel the pressure of their hand on my neck. Sounds, like chatter, reach my ears.
+**Der Bruch:**  
+Meine kleine Schwester schaut mich irgendwie lustig an, nimmt zwei miteinander verbundene Gleiselemente in die Hände und droht, sie zu zerbrechen, falls ich sie nicht auf den Arm nehme. Ich erleide einen Leistenbruch, aber ich halte sie.
 
-**What will you do, Jack?**  
-As it gets dark and silent, my breathing becomes shallow. I close one door and open another. Many behave this way here. I feel better when I fall asleep. Sometimes, I consciously dream before sleep, feeling content before consciousness slips away, and I simply observe. I often wake up tired and usually start the day in the same manner. After a restful night away from the sun, I feel rejuvenated. But my mind craves nourishment, which lies beyond its realm of thought. Though trapped in flesh, I look around in confusion. I hesitate in making decisions, be it about clothing or food. I enjoy watching time exert its influence. Thus, I don’t decide alone but let time and the clock hands pull me along. Dreaming matters to me. Occasionally, I wish I could sleep for days on end. However, nightmares filled with blurred childhood memories, deep waters, and strange encounters with fat geese feel like a thorn in my neck. Geese can warn against strangers as loudly as guard dogs. Excessive consumption of fatty foods and bananas leads to severe heartburn. The stomach acid seeks escape, just as my thoughts want to break free. The only remedy then is to sleep sitting up. It keeps the acid at bay, but not the vivid thoughts threatening to overwhelm me.
+Das Jesuskind richtet seinen Blick nur auf mich. Ich fühle keinen Schmerz.
 
-**The Tank:**  
-The constant, sometimes week-long, forced sleep deprivation makes me sleep deeply and dream a lot. As I fight for air in a water-filled container, I often risk drowning. They feed me through a tube because I refuse to eat.
-Thus, they also feed my fantasies. These haunt me in sleep. I sit in my cell, supporting my head with my hands, not truly living but merely existing through their force.
+Meine Mutter ermahnt mich: „Trete nicht schon wieder die Socken auf den Kleiderschrank!“
 
-**Mother:**  
-The animal I see is strong and tamed by humans, so it serves them. It seems to invite me to enter fertile land to sow, plow, harvest, and feed it with good hay. I cherish this thought and will ponder on it as I fall asleep. Fatigue overwhelms me, and only then do I notice the rider lighting a cigarette. He looks at me and explains that this land isn’t suitable for cultivation. “It’s a holly forest,” he says. I lower my head, looking at the painted arrow meant to guide me, and start swaying. Stumbling, I fall onto my resting place, close the door, and see my mother. She disapproves of the friends who always tug at my clothes. “Pull yourself together, Mo,” she says.
+Mir fehlt einfach das Interesse, um mich weiter mit der Spielzeugeisenbahn zu beschäftigen. Besser gesagt, ich bin immer noch begeistert von diesem Spielzeug, nur überwiegt momentan die Angst in meiner Gefühlswelt.
 
-(Based on my German-language blog post from August 23, 2023.)
+Mein Vater setzt mich auf seinen Schoß. Das mag ich nicht so, also rutsche ich auf einen Stuhl. Dann erklärt er mir, dass selbst kleinste Schnitte am Ohr zu starkem Bluten führen. Währenddessen wandert mein Blick zwischen ihm und dem überlaufenden Aquarium hin und her. Es sind kleine Fische darin. Leider habe ich sie mit einem ganzen Laib Brot gefüttert.
+
+Im Inneren meines Körpers ist etwas gebrochen. Deshalb habe ich Angst, sogar Todesangst, und deshalb frage ich mich, was es mit dem Himmel auf sich hat. Meine Antwort führt zu Zweifel und Abkapselung.
+
+Irgendetwas Kaltes und Klebriges fließt hinauf in meine Nase. Es kommt mir vor, als würde ich einen Handstand unter Wasser probieren. Ich drohe zu ertrinken, atme aber dennoch tief und sehe verschwommen. Jemand öffnet die Badezimmertür. Ich kann den Eindringling nicht erkennen, dafür spüre ich den Druck seiner Hand auf meinem Nacken. Geräusche, wie Geplapper oder Geschnatter, dringen in mein Ohr.
+
+**Was wirst du tun, Jack?**  
+Sobald es sich verdunkelt und still wird, atme ich flacher. Ich schließe eine Tür und öffne eine andere. Viele verhalten sich hier so. Ich fühle mich besser, wenn ich einschlafe. Manchmal träume ich bewusst vor dem Einschlafen und spüre dabei Wohlbefinden, bevor ich das Bewusstsein verliere und nur noch beobachte. Ich wache oft müde auf und beginne den Tag meistens gleich. Nach einer erholsamen Nacht ohne Sonne, fühle ich mich erfrischt. Doch mein Geist sucht nach Nahrung, die außerhalb seiner Gedankenwelt liegt. Obwohl ich im Fleisch gefangen bin, schaue ich verwirrt umher. Ich zögere, Entscheidungen zu treffen, sei es bei der Kleiderwahl oder beim Essen. Ich beobachte gerne, wie die Zeit ihre Wirkung entfaltet. Daher entscheide ich nicht alleine, sondern lasse mich von Zeit und Uhrzeiger mitziehen. Träumen ist mir wichtig. Manchmal wünsche ich mir, tagelang schlafen zu können. Doch Albträume mit verschwommenen Kindheitserinnerungen, tiefen Gewässern und seltsamen Begegnungen mit fetten Gänsen sind wie ein Dorn im Nacken. Gänse können genauso laut vor Fremden warnen wie Wachhunde. Zu viel fettiges Essen und Bananen verursachen starkes Sodbrennen. Die Magensäure möchte ausbrechen, genauso wie meine Gedanken entkommen wollen. Die einzige Lösung, die mir dann hilft, ist im Sitzen zu schlafen. So halte ich die Säure zurück, aber nicht die klaren Gedanken, die drohen, mich zu überwältigen.
+
+**Der Tank:**  
+Durch den ständigen gewaltsamen Schlafentzug, der manchmal eine Woche dauert, schlafe ich lange und träume viel. Wenn ich um Luft kämpfe in einem Wasser gefüllten Behälter, drohe ich regelmäßig zu ertrinken. Sie ernähren mich zwangsweise durch ein Rohr, weil ich mich weigere zu essen. So nähren sie auch meine Fantasien. Diese verfolgen mich im Schlaf. Ich sitze in meiner Zelle, stütze meinen Kopf mit den Händen und lebe nicht wirklich, sondern existiere nur durch ihre Gewalt.
+
+**Mutter:**  
+Das Tier, das ich sehe, ist stark und vom Menschen gezähmt, deshalb dient es ihm. Es scheint, als würde es mich einladen, fruchtbares Land zu betreten, um zu säen, zu pflügen, zu ernten und es mit gutem Heu zu füttern. Ich mag diesen Gedanken und werde ihn beim Einschlafen weiterverfolgen. Die Müdigkeit kommt über mich und erst jetzt bemerke ich den Reiter, der eine Zigarette anzündet. Er sieht mich an und erklärt, dass dieses Gebiet nicht zum Bestellen geeignet ist. Es sei ein Stechpalmenwald, sagt er. Ich senke den Kopf, schaue auf den gemalten Pfeil, der mir die Richtung weisen soll, und fange an zu wanken. Taumelnd falle ich auf meine Schlafgelegenheit, schließe die Tür und sehe meine Mutter. Sie missbilligt die Freunde, die immer an meiner Kleidung zerren. „Reiß dich zusammen, Mo“, sagt sie.

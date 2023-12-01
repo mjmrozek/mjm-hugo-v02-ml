@@ -6,22 +6,21 @@ draft = false
 
 **Services:**  
 
-I offer a range of technical services focused on the early stages of the Software Development Life Cycle (SDLC), including planning, feasibility assessment, requirements analysis, design, and prototyping. In web design, I specialize in using WordPress and Hugo frameworks. Additionally, I provide data protection services and IT support.  
+Ich biete eine Reihe von technischen Dienstleistungen an, die sich auf die frühen Phasen des Softwareentwicklungslebenszyklus (SDLC) konzentrieren, einschließlich Planung, Machbarkeitsbewertung, Anforderungsanalyse, Design und Prototyping. Im Bereich Webdesign spezialisiere ich mich auf die Verwendung der Frameworks WordPress und Hugo. Zusätzlich biete ich Datenschutzdienste und IT-Support an.
 
-</br></br>   
-</br></br>   
+---  
 
-**Imprint:**  
+**Impressum:**  
 
 Matthäus J. Mrozek  
 c/o Grosch Postflex #2362  
 Emsdettener Str. 10  
 48268 Greven  
-Germany  
+Deutschland  
 </br></br>  
 E-Mail: info@mrozek-it.solutions  
-Phone: +49 177 456 7738  
-(Note: No phone hotline available. The phone number is provided due to mandatory disclosure requirements.)  
+Telefon: +49 177 456 7738  
+(Hinweis: Keine telefonische Hotline. Die Telefonnummer wird aufgrund gesetzlicher Offenlegungspflichten bereitgestellt.)  
 </br></br>  
 USt-IdNr.: DE342900786  
 
@@ -29,4 +28,4 @@ USt-IdNr.: DE342900786
 </br></br> 
 
 {{< image src="/img/mmits-it-logo.png" alt="Alt-Text für das Bild" class="no-border" >}}
-*Fig. 1: Logo of "Mrozek, IT Solutions"*
+*Abb. 1: Logo "Mrozek, IT Solutions"*

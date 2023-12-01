@@ -6,7 +6,7 @@ tags = ["clarification"]
 +++
 
 
-Diese Webseite ist ein Knotenpunkt, nur nicht wie ein Switch, der sternförmig Netzwerkknoten miteinander verbindet, sondern als Person im unveränderlichen Zentrum, die nur scheinbar chaotisch unterschiedlichste Lebensbereiche, bzw. Gebiete oder Felder in sich vereint.
+Diese **Webseite** ist ein **Knotenpunkt**, nur nicht wie ein Switch, der sternförmig Netzwerkknoten miteinander verbindet, sondern als **Person** im unveränderlichen **Zentrum**, die nur scheinbar chaotisch unterschiedlichste Lebensbereiche, bzw. Gebiete oder Felder in sich vereint.
 
 Aus dem Menü ist ersichtlich, wo sich was befindet, und so gelangt ein Freund mühelos zu einem Essay und ein potenzieller Auftraggeber genauso schnell zu meinem Portfolio, das vorwiegend IT-Projekte enthält.
 

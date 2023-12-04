@@ -12,14 +12,14 @@ defaultContentLanguageInSubdir = true # Platzierung der Standard-Sprache in eine
     contentDir = "content/english"
     weight = 1
     languageCode = "en-us"
-    title = "Matthäus J. Mrozek (EN)"
+    title = "Matthäus J. Mrozek"
   
   [languages.de]
     languageName = "Deutsch"
     contentDir = "content/deutsch"
     weight = 2
     languageCode = "de-de"
-    title = "Matthäus J. Mrozek (DE)"
+    title = "Matthäus J. Mrozek"
 
 [params]
   showPostNavLinks = true
@@ -144,7 +144,7 @@ url = "/de/legal/"
 weight = 7
 
 [[languages.de.menu.main]]
-name = "Archive"
+name = "Archiv"
 url = "/de/archives/"  # Angepasst an das Sprachen-Kürzel
 weight = 2
 

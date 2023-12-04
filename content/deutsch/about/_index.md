@@ -55,7 +55,7 @@ Unter Umständen werde ich einige Punkte ausführlich als Blog-Posts beantworten
 
 **Bildung:**  
 
-- {{< newtab url="https://drive.google.com/file/d/1GuXQ30RDg5OEiFagJ-Jh3Z00gggy6Hf-/view?usp=sharing" text="Tabelarischer Lebenslauf" >}}
+- {{< newtab url="https://drive.google.com/file/d/1OHAlMIZnV0-wSgdZZsl_LhF8LZyQGYji/view?usp=share_link" text="Tabelarischer Lebenslauf" >}}
 
 - 05.2020 - 02.2022: Rochester Institute of Technology (RITx @ edX): MicroMaster-Programm in Design Thinking  
     - {{< newtab url="https://www.edx.org/micromasters/ritx-design-thinking?index=product&queryID=460c4c89a538f3882e973e4e3267f586&position=1" text="Lerne Design-Thinking" >}}

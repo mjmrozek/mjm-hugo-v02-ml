@@ -55,7 +55,7 @@ Under certain circumstances, I might answer some points in detail through blog p
 
 **Education:**  
 
-- {{< newtab url="https://drive.google.com/file/d/1GuXQ30RDg5OEiFagJ-Jh3Z00gggy6Hf-/view?usp=sharing" text="Tabular Resume" >}}
+- {{< newtab url="https://drive.google.com/file/d/1f2Ix1Swy-zhtgWA9JlXwCVgPB26yIjTV/view?usp=share_link" text="Tabular Resume" >}}
 
 - 05.2020 - 02.2022: Rochester Institute of Technology (RITx @ edX): MicroMaster in Design Thinking  
     - {{< newtab url="https://www.edx.org/micromasters/ritx-design-thinking?index=product&queryID=460c4c89a538f3882e973e4e3267f586&position=1" text="Learn Design Thinking" >}}

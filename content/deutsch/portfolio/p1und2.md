@@ -6,7 +6,7 @@ draft = false
 
 **Ziele:** Kostengünstige, zuverlässige, leistungsstarke und leicht erweiterbare Computer für Office und Multimedia 
 
-
+**Ergebnisse:**
 {{< youtube cWXvjxUugzc >}}  
 *Abb. 1: Projektergebnis im Video*
 

@@ -53,18 +53,19 @@ Unter Umständen werde ich einige Punkte ausführlich als Blog-Posts beantworten
 
 ---
 
-**Bildung:**  
+**Bildung usw.:**  
 
-- {{< newtab url="https://drive.google.com/file/d/1OHAlMIZnV0-wSgdZZsl_LhF8LZyQGYji/view?usp=share_link" text="Tabelarischer Lebenslauf" >}}
+- {{< newtab url="https://drive.google.com/file/d/1OHAlMIZnV0-wSgdZZsl_LhF8LZyQGYji/view?usp=share_link" text="Lebenslauf als PDF" >}}
 
-- 05.2020 - 02.2022: Rochester Institute of Technology (RITx @ edX): MicroMaster-Programm in Design Thinking  
-    - {{< newtab url="https://www.edx.org/micromasters/ritx-design-thinking?index=product&queryID=460c4c89a538f3882e973e4e3267f586&position=1" text="Lerne Design-Thinking" >}}
-- 05.2021 - 12.2021: Technion - Israel Institute of Technology (IsraelX @ edX): Professionelle Zertifikate in MBSE (Systemtechnik, OPM, ISO 19450)
-    - {{< newtab url="https://www.opcloud.tech/" text="OPCloud Webseite" >}}
-- 2009 - 2019: Bachelor of Arts (B.A.) im Studiengang Kulturwissenschaften (KuWi > Philo. > th. Philo. > Sprachphilo. (Denken & Sprache, Gebrauchstheorie der Sprache) und Heuristik)
-    - {{< newtab url="https://www.fernuni-hagen.de/studium/studienangebot/bachelor-kulturwissenschaften.shtml" text="Webseite der FernUni" >}}
-    - {{< newtab url="https://drive.google.com/file/d/1lOOqYRz7GqX5tbB5s9fjeVjtmOYKAEwz/view?usp=sharing" text="Bachelorarbeit" >}}
-    - {{< newtab url="https://drive.google.com/file/d/1sBSzJGrih13L1T_3t9Z9kIX4rN1ogF63/view?usp=sharing" text="Hausarbeit" >}}
+- Uni und Zertifikate
+    - 05.2020 - 02.2022: Rochester Institute of Technology (RITx @ edX): MicroMaster-Programm in Design Thinking  
+        - {{< newtab url="https://www.edx.org/micromasters/ritx-design-thinking?index=product&queryID=460c4c89a538f3882e973e4e3267f586&position=1" text="Lerne Design-Thinking" >}}
+    - 05.2021 - 12.2021: Technion - Israel Institute of Technology (IsraelX @ edX): Professionelle Zertifikate in MBSE (Systemtechnik, OPM, ISO 19450)
+        - {{< newtab url="https://www.opcloud.tech/" text="OPCloud Webseite" >}}
+    - 2009 - 2019: Bachelor of Arts (B.A.) im Studiengang Kulturwissenschaften (KuWi > Philo. > th. Philo. > Sprachphilo. (Denken & Sprache, Gebrauchstheorie der Sprache) und Heuristik)
+        - {{< newtab url="https://www.fernuni-hagen.de/studium/studienangebot/bachelor-kulturwissenschaften.shtml" text="Webseite der FernUni" >}}
+        - {{< newtab url="https://drive.google.com/file/d/1lOOqYRz7GqX5tbB5s9fjeVjtmOYKAEwz/view?usp=sharing" text="Bachelorarbeit" >}}
+        - {{< newtab url="https://drive.google.com/file/d/1sBSzJGrih13L1T_3t9Z9kIX4rN1ogF63/view?usp=sharing" text="Hausarbeit" >}}
 
 
 ---

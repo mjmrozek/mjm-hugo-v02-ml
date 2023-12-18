@@ -53,18 +53,19 @@ Under certain circumstances, I might answer some points in detail through blog p
 
 ---
 
-**Education:**  
+**Education etc.:**  
 
-- {{< newtab url="https://drive.google.com/file/d/1f2Ix1Swy-zhtgWA9JlXwCVgPB26yIjTV/view?usp=share_link" text="Tabular Resume" >}}
+- {{< newtab url="https://drive.google.com/file/d/1f2Ix1Swy-zhtgWA9JlXwCVgPB26yIjTV/view?usp=share_link" text="Resume as PDF" >}}
 
-- 05.2020 - 02.2022: Rochester Institute of Technology (RITx @ edX): MicroMaster in Design Thinking  
-    - {{< newtab url="https://www.edx.org/micromasters/ritx-design-thinking?index=product&queryID=460c4c89a538f3882e973e4e3267f586&position=1" text="Learn Design Thinking" >}}
-- 05.2021 - 12.2021: Technion – Israel Institute of Technology (IsraelX @ edX): Professional Certificates in MBSE (Systems Engineering, OPM, ISO 19450)  
-    - {{< newtab url="https://www.opcloud.tech/" text="OPCloud Website" >}}
-- 2009 - 2019: FernUniversität in Hagen: Bachelor of Arts (B.A.) in Cultural Studies (KuWi > Philo. > th. Philo. > Linguistic Philo. (Thinking & Language, Use Theory) and Heuristics)
-    - {{< newtab url="https://www.fernuni-hagen.de/studium/studienangebot/bachelor-kulturwissenschaften.shtml" text="Website of the FernUni in Hagen, Germany, Cultural Studies" >}}
-    - {{< newtab url="https://drive.google.com/file/d/1lOOqYRz7GqX5tbB5s9fjeVjtmOYKAEwz/view?usp=sharing" text="Bachelor Thesis" >}}
-    - {{< newtab url="https://drive.google.com/file/d/1sBSzJGrih13L1T_3t9Z9kIX4rN1ogF63/view?usp=sharing" text="Homework Assignment" >}}
+- University and certificates
+    - 05.2020 - 02.2022: Rochester Institute of Technology (RITx @ edX): MicroMaster in Design Thinking  
+        - {{< newtab url="https://www.edx.org/micromasters/ritx-design-thinking?index=product&queryID=460c4c89a538f3882e973e4e3267f586&position=1" text="Learn Design Thinking" >}}
+    - 05.2021 - 12.2021: Technion – Israel Institute of Technology (IsraelX @ edX): Professional Certificates in MBSE (Systems Engineering, OPM, ISO 19450)  
+        - {{< newtab url="https://www.opcloud.tech/" text="OPCloud Website" >}}
+    - 2009 - 2019: FernUniversität in Hagen: Bachelor of Arts (B.A.) in Cultural Studies (KuWi > Philo. > th. Philo. > Linguistic Philo. (Thinking & Language, Use Theory) and Heuristics)
+        - {{< newtab url="https://www.fernuni-hagen.de/studium/studienangebot/bachelor-kulturwissenschaften.shtml" text="Website of the FernUni in Hagen, Germany, Cultural Studies" >}}
+        - {{< newtab url="https://drive.google.com/file/d/1lOOqYRz7GqX5tbB5s9fjeVjtmOYKAEwz/view?usp=sharing" text="Bachelor Thesis" >}}
+        - {{< newtab url="https://drive.google.com/file/d/1sBSzJGrih13L1T_3t9Z9kIX4rN1ogF63/view?usp=sharing" text="Homework Assignment" >}}
 
 
 ---

@@ -25,3 +25,10 @@ img.no-border {
 }
 
 
+.caption {
+    color: grey; 
+    font-size: small; 
+    text-align: center; 
+    margin-top: 0.5em; 
+    display: block;
+}

@@ -10,7 +10,7 @@ draft = false
 Literaturbesessen, technikbegeistert; Studium in Philosophie & Produktentwicklung; MBSE-Experte; Fokus auf frühe SDLC-Phasen.
 
 ![Alt-Text für das Bild](/img/profile.jpg)
-*Abb. 1: Ich an der Zeche Zollverein, Essen, Deutschland - Spätsommer 2022*  
+{{< smalltext >}}Abb. 1: Ich an der Zeche Zollverein, Essen, Deutschland - Spätsommer 2022{{< /smalltext >}}
 </br></br>  
 </br></br> 
 
@@ -125,3 +125,8 @@ Das neueste Equipment ist oben. Die Qualität ist natürlich absteigend.
 - SONY MDR-CD270 Headphones @Aiwa NSX 999 4.0 Stereo System
 - Sony WALKMAN WM FX415 with Radio & Earbuds
 - Aiwa WM MC Cassette Stereo Walkman with Earbuds
+
+
+
+
+

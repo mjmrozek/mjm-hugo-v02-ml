@@ -10,6 +10,7 @@ draft = false
 {{< youtube cWXvjxUugzc >}}  
 *Abb. 1: Projektergebnis im Video*
 
+
 ---
 
 ### ITX  
@@ -47,3 +48,7 @@ draft = false
 ![Alt-Text für das Bild](/img/p1.2.jpg)  
 
 ![Alt-Text für das Bild](/img/p1.3.jpg)
+
+
+
+

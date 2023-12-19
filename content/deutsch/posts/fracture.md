@@ -28,3 +28,5 @@ Durch den ständigen gewaltsamen Schlafentzug, der manchmal eine Woche dauert, s
 
 **Mutter:**  
 Das Tier, das ich sehe, ist stark und vom Menschen gezähmt, deshalb dient es ihm. Es scheint, als würde es mich einladen, fruchtbares Land zu betreten, um zu säen, zu pflügen, zu ernten und es mit gutem Heu zu füttern. Ich mag diesen Gedanken und werde ihn beim Einschlafen weiterverfolgen. Die Müdigkeit kommt über mich und erst jetzt bemerke ich den Reiter, der eine Zigarette anzündet. Er sieht mich an und erklärt, dass dieses Gebiet nicht zum Bestellen geeignet ist. Es sei ein Stechpalmenwald, sagt er. Ich senke den Kopf, schaue auf den gemalten Pfeil, der mir die Richtung weisen soll, und fange an zu wanken. Taumelnd falle ich auf meine Schlafgelegenheit, schließe die Tür und sehe meine Mutter. Sie missbilligt die Freunde, die immer an meiner Kleidung zerren. „Reiß dich zusammen, Mo“, sagt sie.
+
+

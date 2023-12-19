@@ -28,4 +28,4 @@ USt-IdNr.: DE342900786
 </br></br> 
 
 {{< image src="/img/mmits-it-logo.png" alt="Alt-Text für das Bild" class="no-border" >}}
-*Abb. 1: Logo "Mrozek, IT Solutions"*
+{{< smalltext >}}Abb. 1: Logo "Mrozek, IT Solutions"{{< /smalltext >}}

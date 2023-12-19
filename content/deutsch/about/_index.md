@@ -38,10 +38,9 @@ Diese Herangehensweise inspirierte mich, meine eigene Reise ähnlich darzustelle
 Zum Beispiel betrachte ich nach nur einem halben Jahr meine umfangreiche SVG-Skizze vom Sommer 2022 eher kritisch:
 
 
-![Alt-Text für das Bild](/img/journey.jpeg)
-{{< smalltext >}}Abb. 3: Skizze: „Origin, course and competencies …“{{< /smalltext >}}
 
-
+{{< lightbox src="/img/journey.jpeg" alt="Alt-Text" >}}
+{{< smalltext >}}Abb. 3: Skizze: „Origin, course and competencies …“{{< /smalltext >}}  
 
 Unter Umständen werde ich einige Punkte ausführlich als Blog-Posts beantworten. Hier versuche ich in möglichst wenigen Sätzen nur die Kernaussagen zu formulieren – so wie es für ein Gespräch angemessen wäre.
 

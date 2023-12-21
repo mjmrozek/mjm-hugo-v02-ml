@@ -1,12 +1,13 @@
 {{- $scratch := newScratch }}
 
 {{- if not .Date.IsZero -}}
-  {{- $dateFormat := "January 2, 2006" -}}  {{/* Standardformat */}}
+  {{- $dateFormat := .Site.Params.dateFormat | default "January 2, 2006" -}}
   {{- if eq .Site.Language.Lang "de" -}}
-    {{- $dateFormat = "2. Januar 2006" -}}  {{/* Deutsches Format */}}
+    {{- $dateFormat = .Site.Params.dateFormaDe | default "2. January 2006" -}} {{/* Deutsches Format */}}
   {{- end -}}
-  {{- $scratch.Add "meta" (slice (printf "<span title='%s'>%s</span>" (.Date) (.Date | time.Format (default $dateFormat site.Params.DateFormat)))) }}
-{{- end }}
+  <span title="{{ .Date | time.Format $dateFormat }}">{{ .Date | time.Format $dateFormat }}</span>
+{{- end -}}
+
 
 {{- if (.Param "ShowReadingTime") -}}
 {{- $scratch.Add "meta" (slice (i18n "read_time" .ReadingTime | default (printf "%d min" .ReadingTime))) }}

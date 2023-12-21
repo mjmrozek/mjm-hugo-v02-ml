@@ -1,17 +1,27 @@
 +++
 title = '1. & 2. DIY PC Build'
 weight = 12
+summary = "Objectives: Affordable, reliable, high-performance, and easily upgradable computers (ATX & ITX) for office and multimedia."
 draft = false
 +++
 
-**Objectives:** Affordable, reliable, powerful and easily expandable computers for office and multimedia 
+**Objectives**  
+Affordable, reliable, high-performance and easily upgradable computers (ATX & ITX) for office and multimedia. 
 
-**Results:**
+</br></br>  
+</br></br> 
+
+**Results**  
 {{< youtube cWXvjxUugzc >}}
 {{< smalltext >}}Fig. 1: Project result in video{{< /smalltext >}}
 
+</br></br>  
+</br></br> 
 
 ---
+
+</br></br>  
+</br></br> 
 
 ### ITX  
 

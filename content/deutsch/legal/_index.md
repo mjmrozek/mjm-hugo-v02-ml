@@ -4,8 +4,7 @@ date = 2023-01-01T00:00:00Z
 draft = false
 +++
 
-**Impressum:**
-
+**Impressum**  
 Matthäus J. Mrozek  
 c/o Grosch Postflex #2326  
 Emsdettener Str. 10  
@@ -18,8 +17,7 @@ Telefon: +49 177 456 7738
 
 ---  
 
-**Haftungsausschluss:**  
-
+**Haftungsausschluss**  
 Die Inhalte meiner Website werden mit größter Sorgfalt erstellt, dennoch kann ich keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte übernehmen.  
 
 Ich übernehme keine Verantwortung für Inhalte, auf die von meinen Seiten auf externen Plattformen wie Twitter, Instagram, LinkedIn, GitHub und YouTube verlinkt oder verwiesen wird, da ich keinen Einfluss darauf habe. Die jeweiligen Betreiber sind für ihre Inhalte verantwortlich.  
@@ -30,8 +28,7 @@ Personenbezogene Daten, die mir über Kontaktanfragen zugehen, werden ausschlie�
 
 ---  
 
-**Nutzungsbedingungen für meine Inhalte:**  
-
+**Nutzungsbedingungen für meine Inhalte**  
 Alle mit mir in Verbindung stehenden Inhalte, unabhängig von der Plattform, sind geistiges Eigentum von Matthäus J. Mrozek.  
 
 Ich begrüße das Teilen und die Diskussion über meine Arbeit. Sollten Sie sich entschließen, meine Inhalte zu teilen oder zu diskutieren, tun Sie dies bitte verantwortungsbewusst und unter angemessener Anerkennung meiner Urheberschaft.  
@@ -48,8 +45,7 @@ Die Auseinandersetzung mit meinen Inhalten, sei es über direkten Zugriff oder a
 
 ---  
 
-**Offenlegung der Zusammenarbeit mit KI:**  
-
+**Offenlegung der Zusammenarbeit mit KI**  
 Ich nutze fortschrittliche KI-Tools, einschließlich OpenAIs ChatGPT, um bei der Erstellung und Verfeinerung von Inhalten auf meinen Plattformen zu helfen. Obwohl ich diese Beiträge als Teil meines eigenen Werks präsentieren kann, glaube ich an Transparenz bezüglich der Verwendung von KI in meinem kreativen Prozess.  
 
 Die durch KI verbesserten Inhalte umfassen verschiedene Formate und finden sich sowohl auf meinen Websites als auch auf sozialen Medien. Diese KI-gestützten Schriften fließen auch in multimediale Inhalte ein, wie meine YouTube-Videos.  

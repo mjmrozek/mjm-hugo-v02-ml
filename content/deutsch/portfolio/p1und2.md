@@ -1,16 +1,27 @@
 +++
 title = '1. & 2. DIY PC Build'
 weight = 12
+summary = "Ziele: Kostengünstige, zuverlässige, leistungsstarke und leicht erweiterbare Computer (ATX & ITX) für Office und Multimedia."
 draft = false
 +++
 
-**Ziele:** Kostengünstige, zuverlässige, leistungsstarke und leicht erweiterbare Computer für Office und Multimedia 
+**Ziele**  
+Kostengünstige, zuverlässige, leistungsstarke und leicht erweiterbare Computer (ATX & ITX) für Office und Multimedia.
 
-**Ergebnisse:**
+</br></br>  
+</br></br> 
+
+**Ergebnisse**  
 {{< youtube cWXvjxUugzc >}}
 {{< smalltext >}}Abb. 1: Projektergebnis im Video{{< /smalltext >}}
 
+</br></br>  
+</br></br> 
+
 ---
+
+</br></br>  
+</br></br> 
 
 ### ITX  
 

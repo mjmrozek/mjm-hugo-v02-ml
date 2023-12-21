@@ -5,8 +5,7 @@ draft = false
 +++
 
 
-**Steckbrief:**  
-
+**Steckbrief**  
 Literaturbesessen, technikbegeistert; Studium in Philosophie & Produktentwicklung; MBSE-Experte; Fokus auf frühe SDLC-Phasen.
 
 ![Alt-Text für das Bild](/img/profile.jpg)
@@ -21,14 +20,12 @@ Literaturbesessen, technikbegeistert; Studium in Philosophie & Produktentwicklun
 
 ---
 
-**Kontakt:**  
-
+**Kontakt**  
 Der bevorzugte Kontaktweg ist eine Nachricht per E-Mail. Alternativ bin ich per Twitter oder LinkedIn erreichbar. Auf Sprachnachrichten via Mobilfunknummer reagiere ich meist erst innerhalb einiger Tage.
 
 ---
 
-**Reise:**  
-
+**Reise**  
 Mein Lebenslauf sollte zunächst die akademische Ausbildung umfassen. Doch viele prägende Ereignisse fanden außerhalb von Schule, Ausbildung oder Hochschule statt. Ein konventioneller Lebenslauf vernachlässigt somit bedeutende Momente, Wendepunkte, Entscheidungen und Herausforderungen.
 
 Während des fünften World Government Summit 2017 erkundigte sich Mohammad Al Gergawi bei Gast Elon Musk nach dessen Auswahlverfahren für sein Team. Musk verriet, dass er sich auf Intuition und wiederkehrende Fragen zu bisherigen Erfahrungen, wichtigen Entscheidungen und gelösten Problemen verlässt.
@@ -54,8 +51,7 @@ Unter Umständen werde ich einige Punkte ausführlich als Blog-Posts beantworten
 
 ---
 
-**Bildung usw.:**  
-
+**Bildung usw.**  
 - {{< newtab url="https://drive.google.com/file/d/1OHAlMIZnV0-wSgdZZsl_LhF8LZyQGYji/view?usp=share_link" text="Lebenslauf als PDF" >}}
 
 - Uni und Zertifikate
@@ -71,8 +67,7 @@ Unter Umständen werde ich einige Punkte ausführlich als Blog-Posts beantworten
 
 ---
 
-**Hobbys:**  
-
+**Hobbys**  
 1. Belletristik  
 
 ![Alt-Text für das Bild](/img/about-books-1.jpg)

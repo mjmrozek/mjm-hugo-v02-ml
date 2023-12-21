@@ -1,18 +1,16 @@
 +++
 title = "IT Solutions"
-
+summary = "Webdesign, Compliance, IT Support, Early Stages SDLC"
 draft = false
 +++
 
-**Services:**  
-
+**Services**  
 I offer a range of technical services focused on the early stages of the Software Development Life Cycle (SDLC), including planning, feasibility assessment, requirements analysis, design, and prototyping. In web design, I specialize in using WordPress and Hugo frameworks. Additionally, I provide data protection services and IT support.  
 
 </br></br>   
 </br></br>   
 
-**Imprint:**  
-
+**Imprint**  
 Matthäus J. Mrozek  
 c/o Grosch Postflex #2362  
 Emsdettener Str. 10  

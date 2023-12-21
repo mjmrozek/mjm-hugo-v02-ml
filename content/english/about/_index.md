@@ -5,8 +5,7 @@ draft = false
 +++
 
 
-**Brief Bio:**  
-
+**Brief Bio**  
 Obsessed with literature, enthusiastic about technology; Studies in philosophy & product development; MBSE expert; Focus on early SDLC phases.    
 
 ![Alt-Text für das Bild](/img/profile.jpg)
@@ -22,14 +21,12 @@ Obsessed with literature, enthusiastic about technology; Studies in philosophy &
 
 ---
 
-**Contact:**  
-
+**Contact**  
 The preferred method of contact is through email. Alternatively, you can reach me on Twitter or LinkedIn. Please note that I typically respond to voicemail messages on my mobile number within a few days.
 
 ---
 
-**Journey:**  
-
+**Journey**  
 Initially, my resume was intended to focus solely on my academic qualifications. However, many of the defining events in my life have occurred outside of school, vocational training, or university. As such, a conventional resume can overlook significant moments, turning points, decisions, and challenges.
 
 During the fifth World Government Summit in 2017, Mohammad Al Gergawi asked guest Elon Musk about his team selection process. Musk revealed that he relies on intuition and recurring questions about experiences, important decisions, and problems solved.
@@ -38,8 +35,7 @@ This approach inspired me to present my own journey similarly. The list below is
 
 For instance, after only half a year, I’m somewhat critical of my comprehensive SVG sketch from the summer of 2022:
 
-
-![Alt-Text für das Bild](/img/journey.jpeg)
+{{< lightbox src="/img/journey.jpeg" alt="Alt-Text" >}}
 {{< smalltext >}}Fig. 3: Sketch „Origin, course and competencies …“{{< /smalltext >}}
 
 
@@ -56,8 +52,7 @@ Under certain circumstances, I might answer some points in detail through blog p
 
 ---
 
-**Education etc.:**  
-
+**Education etc.**  
 - {{< newtab url="https://drive.google.com/file/d/1f2Ix1Swy-zhtgWA9JlXwCVgPB26yIjTV/view?usp=share_link" text="Resume as PDF" >}}
 
 - University and certificates
@@ -73,8 +68,7 @@ Under certain circumstances, I might answer some points in detail through blog p
 
 ---
 
-**Hobbies:**  
-
+**Hobbies**  
 1. Fiction Literature  
 
 ![Alt-Text für das Bild](/img/about-books-1.jpg)

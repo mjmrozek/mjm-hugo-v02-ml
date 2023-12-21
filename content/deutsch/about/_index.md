@@ -18,12 +18,14 @@ Literaturbesessen, technikbegeistert; Studium in Philosophie & Produktentwicklun
 {{< smalltext >}}Abb. 2: Durch DALL-E 2 generierte Bilder auf Grundlage des Steckbriefes{{< /smalltext >}}
 
 
----
+</br></br>  
+</br></br> 
 
 **Kontakt**  
 Der bevorzugte Kontaktweg ist eine Nachricht per E-Mail. Alternativ bin ich per Twitter oder LinkedIn erreichbar. Auf Sprachnachrichten via Mobilfunknummer reagiere ich meist erst innerhalb einiger Tage.
 
----
+</br></br>  
+</br></br> 
 
 **Reise**  
 Mein Lebenslauf sollte zunächst die akademische Ausbildung umfassen. Doch viele prägende Ereignisse fanden außerhalb von Schule, Ausbildung oder Hochschule statt. Ein konventioneller Lebenslauf vernachlässigt somit bedeutende Momente, Wendepunkte, Entscheidungen und Herausforderungen.
@@ -49,7 +51,8 @@ Unter Umständen werde ich einige Punkte ausführlich als Blog-Posts beantworten
 6. Problem: Strukturierung eines Textes / Spinnen eines roten Fadens
 7. Problem: Prokrastination / Résistance 
 
----
+</br></br>  
+</br></br> 
 
 **Bildung usw.**  
 - {{< newtab url="https://drive.google.com/file/d/1OHAlMIZnV0-wSgdZZsl_LhF8LZyQGYji/view?usp=share_link" text="Lebenslauf als PDF" >}}
@@ -65,7 +68,8 @@ Unter Umständen werde ich einige Punkte ausführlich als Blog-Posts beantworten
         - {{< newtab url="https://drive.google.com/file/d/1sBSzJGrih13L1T_3t9Z9kIX4rN1ogF63/view?usp=sharing" text="Hausarbeit" >}}
 
 
----
+</br></br>  
+</br></br> 
 
 **Hobbys**  
 1. Belletristik  

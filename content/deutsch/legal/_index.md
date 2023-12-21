@@ -15,7 +15,8 @@ E-Mail: mjmrozek@gmail.com
 Telefon: +49 177 456 7738  
 (Hinweis: Keine telefonische Hotline. Die Telefonnummer wird aufgrund gesetzlicher Offenlegungspflichten bereitgestellt.)  
 
----  
+</br></br>  
+</br></br> 
 
 **Haftungsausschluss**  
 Die Inhalte meiner Website werden mit größter Sorgfalt erstellt, dennoch kann ich keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte übernehmen.  
@@ -26,7 +27,8 @@ Sollten mir Rechtsverletzungen bekannt werden, werde ich die betreffenden Inhalt
 
 Personenbezogene Daten, die mir über Kontaktanfragen zugehen, werden ausschließlich zur Beantwortung dieser Anfragen verwendet. Eine weitergehende Nutzung erfolgt nur mit ausdrücklicher Zustimmung.  
 
----  
+</br></br>  
+</br></br> 
 
 **Nutzungsbedingungen für meine Inhalte**  
 Alle mit mir in Verbindung stehenden Inhalte, unabhängig von der Plattform, sind geistiges Eigentum von Matthäus J. Mrozek.  
@@ -43,7 +45,8 @@ Bei jeder Verwendung meiner Inhalte bitte ich um eine klare und sichtbare Zuschr
 
 Die Auseinandersetzung mit meinen Inhalten, sei es über direkten Zugriff oder auf einem sozialen Netzwerk, impliziert die Akzeptanz dieser Bedingungen. Sollten Sie Fragen haben oder eine Klärung bezüglich der zulässigen Nutzung meiner Inhalte benötigen, kontaktieren Sie mich bitte direkt.  
 
----  
+</br></br>  
+</br></br> 
 
 **Offenlegung der Zusammenarbeit mit KI**  
 Ich nutze fortschrittliche KI-Tools, einschließlich OpenAIs ChatGPT, um bei der Erstellung und Verfeinerung von Inhalten auf meinen Plattformen zu helfen. Obwohl ich diese Beiträge als Teil meines eigenen Werks präsentieren kann, glaube ich an Transparenz bezüglich der Verwendung von KI in meinem kreativen Prozess.  

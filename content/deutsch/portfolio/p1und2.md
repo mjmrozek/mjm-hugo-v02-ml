@@ -15,10 +15,7 @@ Kostengünstige, zuverlässige, leistungsstarke und leicht erweiterbare Computer
 {{< youtube cWXvjxUugzc >}}
 {{< smalltext >}}Abb. 1: Projektergebnis im Video{{< /smalltext >}}
 
-</br></br>  
-</br></br> 
 
----
 
 </br></br>  
 </br></br> 
@@ -48,7 +45,8 @@ Kostengünstige, zuverlässige, leistungsstarke und leicht erweiterbare Computer
 ![Bildbeschreibung für p2.11](/img/p2.11.jpg)
 
 
----
+</br></br>  
+</br></br> 
 
 
 ### ATX

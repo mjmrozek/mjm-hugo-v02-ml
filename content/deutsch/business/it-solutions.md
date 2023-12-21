@@ -1,5 +1,5 @@
 +++
-title = "IT Solutions"
+title = "Mrozek, IT Solutions"
 summary = "Webdesign, Datenschutz, IT-Support, Frühe Phasen des SDLC"
 draft = false
 +++

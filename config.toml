@@ -33,7 +33,7 @@ defaultContentLanguageInSubdir = true # Platzierung der Standard-Sprache in eine
   Title = "Blogging & IT Solutions"
   Content = """
   This **website** is a **hub**, but not in the way a switch star-connects network nodes; it’s more like a **person** in an immutable **center**, seemingly chaotically 
-  amalgamating various areas of life, or fields, within itself. [Read more...](/en/posts/hub/)
+  amalgamating various areas of life, or fields, within itself. [Read more...](/en/posts/2022-12-22/)
   """
 
 # Spezifische Parameter für Deutsch
@@ -42,7 +42,7 @@ defaultContentLanguageInSubdir = true # Platzierung der Standard-Sprache in eine
   Content = """
   Diese **Webseite** ist ein **Knotenpunkt**, nur nicht wie ein Switch, der sternförmig Netzwerkknoten miteinander verbindet, 
   sondern als **Person** im unveränderlichen **Zentrum**, die nur scheinbar chaotisch unterschiedlichste Lebensbereiche, bzw. 
-  Gebiete oder Felder in sich vereint. [Mehr erfahren...](/de/posts/hub/)
+  Gebiete oder Felder in sich vereint. [Mehr erfahren...](/de/posts/2022-12-22/)
   """
 
 

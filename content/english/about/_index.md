@@ -56,7 +56,7 @@ Under certain circumstances, I might answer some points in detail through blog p
 </br></br> 
 
 **Education etc.**  
-- {{< newtab url="https://drive.google.com/file/d/1f2Ix1Swy-zhtgWA9JlXwCVgPB26yIjTV/view?usp=share_link" text="Resume as PDF" >}}
+- {{< newtab url="https://drive.google.com/file/d/1WBmJGhCQDNrAZZ88NQIBdJylv-HEkQuF/view?usp=sharing" text="Resume as PDF (22.12.2023)" >}}
 
 - University and certificates
     - 05.2020 - 02.2022: Rochester Institute of Technology (RITx @ edX): MicroMaster in Design Thinking  

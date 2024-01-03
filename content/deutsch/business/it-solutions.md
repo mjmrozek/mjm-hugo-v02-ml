@@ -1,5 +1,5 @@
 +++
-title = "Mrozek, IT Solutions"
+title = "Mrozek, IT-Solutions"
 summary = "Webdesign, Datenschutz, IT-Support, Frühe Phasen des SDLC"
 draft = false
 +++
@@ -27,4 +27,4 @@ USt-IdNr.: DE342900786
 </br></br> 
 
 {{< image src="/img/mmits-it-logo.png" alt="Alt-Text für das Bild" class="no-border" >}}
-{{< smalltext >}}Abb. 1: Logo "Mrozek, IT Solutions"{{< /smalltext >}}
+{{< smalltext >}}Abb. 1: Logo "Mrozek, IT-Solutions"{{< /smalltext >}}

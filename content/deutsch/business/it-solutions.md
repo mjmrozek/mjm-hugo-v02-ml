@@ -28,3 +28,31 @@ USt-IdNr.: DE342900786
 
 {{< image src="/img/mmits-it-logo.png" alt="Alt-Text für das Bild" class="no-border" >}}
 {{< smalltext >}}Abb. 1: Logo "Mrozek, IT-Solutions"{{< /smalltext >}}
+
+
+</br></br>  
+</br></br> 
+
+***  
+### Anzeige / Werbung vom 04.01.2023 {#werbung-04012023}
+
+🔒 **DATENSCHUTZ EINFACH & EFFIZIENT MIT MROZEK, IT-SOLUTIONS**  
+Suchen Sie eine zuverlässige, gesetzlich vorgeschriebene Hinweisgeber-Plattform? Bei mir sind Sie richtig!
+
+🌐 **IHR VORTEIL:**  
+1️⃣ Ein System für jede Mitarbeiterzahl - unkompliziert & sofort einsatzbereit.  
+2️⃣ Ihr persönlicher Zugangslink: `IHRFirmenname.hinweis.digital`  
+3️⃣ Anpassbar & benutzerfreundlich: Mitarbeiter werden sorgfältig online geschult & Hinweise können bequem von jedem Gerät erstattet werden.
+
+🚫 Vergessen Sie überteuerte Großpakete. Meine Lösung ist effizient, ausreichend und entspricht dem, was Sie wirklich benötigen!
+
+💰 **FAIRE PREISE:**  
+Monatsabo: 99 € (ohne USt.)  
+Jahresabo: 990 € (ohne USt.)  
+Preise für Kleinstbetriebe auf Nachfrage!
+
+🌍 **PERSÖNLICHE BERATUNG:**  
+Ansässig in 40764 Langenfeld, biete ich gerne persönliche Beratung, Implementierung und Support im Umkreis von ca. 25 km an. Dies umfasst also auch die Städte Düsseldorf und Köln.
+
+🔍 Fragen? Demo gewünscht? Kontaktieren Sie mich: datenschutz@mrozek-it.solutions  
+Setzen Sie auf Einfachheit & Sicherheit mit Mrozek, IT-Solutions!

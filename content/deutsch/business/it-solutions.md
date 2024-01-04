@@ -52,7 +52,7 @@ Jahresabo: 990 € (ohne USt.)
 Preise für Kleinstbetriebe auf Nachfrage!
 
 🌍 **PERSÖNLICHE BERATUNG:**  
-Ansässig in 40764 Langenfeld, biete ich gerne persönliche Beratung, Implementierung und Support im Umkreis von ca. 25 km an. Dies umfasst also auch die Städte Düsseldorf und Köln.
+Ansässig in 40764 Langenfeld, biete ich gerne persönliche Vor-Ort-Beratung, Implementierung und Support im Umkreis von ca. 25 km an. Dies umfasst also auch die Städte Düsseldorf und Köln.
 
 🔍 Fragen? Demo gewünscht? Kontaktieren Sie mich: datenschutz@mrozek-it.solutions  
 Setzen Sie auf Einfachheit & Sicherheit mit Mrozek, IT-Solutions!

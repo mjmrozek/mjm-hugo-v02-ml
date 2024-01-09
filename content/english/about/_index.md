@@ -85,27 +85,29 @@ The following list of books I’ve read and thoroughly processed is not random, 
 - Joyce: Ulysses
 - Melville: Moby Dick
 - Bible
-- Bulgakow: Der Meister und Margarita (Мастер и Маргарита / Master i Margarita)
+- Bulgakow: The Master and Margarita (Мастер и Маргарита / Master i Margarita)
 - Goethe
-    - Der Werther
-    - Die Wahlverwandtschaften
-    - Wilhelm Meisters Lehrjahre
-    - Novelle und Märchen
+    - The Sorrows of Young Werther (Der Werther)
+    - Elective Affinities (Die Wahlverwandtschaften)
+    - Wilhelm Meister's Apprenticeship (Wilhelm Meisters Lehrjahre)
+    - Novella and Fairy Tale (Novelle und Märchen)
     - Hermann und Dorothea
-    - Dichtung und Wahrheit
+    - Poetry and Truth (Dichtung und Wahrheit)
 - Kafka
-    - Das Schloss 
-    - Der Verschollene 
-    - Der Prozess 
-    - Erzählungen 
-    - Briefe an Milena
-    - Briefe an Felice
-    - Amtliche Schriften
-    - Tagebücher
-    - Stachs Biografie
+    - The Castle (Das Schloss) 
+    - The Man Who Disappeared (Der Verschollene) 
+    - The Trial (Der Prozess) 
+    - Short Stories (Erzählungen) 
+    - Letters to Milena (Briefe an Milena) 
+    - Letters to Felice (Briefe an Felice) 
+    - Office Writings (Amtliche Schriften) 
+    - Diaries (Tagebücher) 
+    - Stach's Biography (Stachs Biografie)
 - …
-- Helbig: Erinnertes Leben
-- Proust: Auf der Suche nach der verlorenen Zeit (À la recherche du temps perdu)  
+- Helbig: Remembered Life (Erinnertes Leben)
+- Proust: Remembrance of Things Past (À la recherche du temps perdu) 
+- Both 'The Time Library of 100 Books' and many of the works listed therein have been read, some multiple times, others only partially.
+- 
 <br><br>  
 <br><br>
 

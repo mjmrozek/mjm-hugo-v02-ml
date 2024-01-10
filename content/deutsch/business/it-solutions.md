@@ -5,7 +5,9 @@ draft = false
 +++
 
 **Services**  
-Ich biete eine Reihe von technischen Dienstleistungen an, die sich auf die frühen Phasen des Softwareentwicklungslebenszyklus (SDLC) konzentrieren, einschließlich Planung, Machbarkeitsbewertung, Anforderungsanalyse, Design und Prototyping. Im Bereich Webdesign spezialisiere ich mich auf die Verwendung der Frameworks WordPress und Hugo. Zusätzlich biete ich Datenschutzdienste und IT-Support an.
+Ich biete eine Reihe von technischen Dienstleistungen an, die sich auf die frühen Phasen des Softwareentwicklungslebenszyklus (SDLC) konzentrieren, einschließlich Planung, Machbarkeitsbewertung, Anforderungsanalyse, Design und Prototyping. Im Bereich Webdesign spezialisiere ich mich auf die Verwendung der Frameworks WordPress und Hugo. Zusätzlich biete ich Datenschutzdienste und IT-Support an.  
+
+{{< newtab url="https://services.mrozek-it.solutions" text="Dedizierte Webseite" >}}
 
 </br></br>   
 </br></br>  

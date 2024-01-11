@@ -7,7 +7,7 @@ draft = false
 **Services**  
 I offer a range of technical services focused on the early stages of the Software Development Life Cycle (SDLC), including planning, feasibility assessment, requirements analysis, design, and prototyping. In web design, I specialize in using WordPress and Hugo frameworks. Additionally, I provide data protection services and IT support.  
 
-{{< newtab url="https://mrozek-it.solutions" text="Dedicated Website (German)" >}}
+{{< newtab url="https://www.mrozek-it-solutions.com" text="Dedicated Website (German)" >}}
 
 </br></br>   
 </br></br>   

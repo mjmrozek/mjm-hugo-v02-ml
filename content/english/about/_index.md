@@ -106,8 +106,8 @@ The following list of books I’ve read and thoroughly processed is not random, 
 - …
 - Helbig: Remembered Life (Erinnertes Leben)
 - Proust: Remembrance of Things Past (À la recherche du temps perdu) 
-- Both 'The Time Library of 100 Books' and many of the works listed therein have been read, some multiple times, others only partially.
-- 
+- Both 'The Time Library of 100 Books' and many of the works listed therein have been read, some multiple times, others only partially.  
+
 <br><br>  
 <br><br>
 

@@ -104,7 +104,8 @@ Die folgende Aufzählung von mir gelesener bzw. durchdrungener Bücher ist nicht
 - …
 - Helbig: Erinnertes Leben
 - Proust: Auf der Suche nach der verlorenen Zeit (À la recherche du temps perdu)  
-- Sowohl 'Die Zeit-Bibliothek der 100 Bücher' als auch viele der darin aufgeführten Werke wurden gelesen, einige mehrmals, andere nur teilweise.
+- Sowohl 'Die Zeit-Bibliothek der 100 Bücher' als auch viele der darin aufgeführten Werke wurden gelesen, einige mehrmals, andere nur teilweise.  
+
 <br><br>  
 <br><br>
 

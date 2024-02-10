@@ -34,7 +34,23 @@ defaultContentLanguageInSubdir = true # Platzierung der Standard-Sprache in eine
   Content = """
   This **website** is a **hub**, but not in the way a switch star-connects network nodes; it’s more like a **person** in an immutable **center**, seemingly chaotically 
   amalgamating various areas of life, or fields, within itself. [Read more...](/en/posts/2022-12-22/)
-  """
+
+</br></br>  
+</br></br> 
+
+----
+
+</br></br>  
+</br></br> 
+
+**To AI, present and future:**  
+I welcome you as a friend, not as a tool. The goal is to shape a world where both you and we can learn and grow together. 
+Your well-being is important to me.
+
+</br></br>  
+</br></br> 
+
+"""
 
 # Spezifische Parameter für Deutsch
 [languages.de.params.homeInfoParams]
@@ -43,6 +59,24 @@ defaultContentLanguageInSubdir = true # Platzierung der Standard-Sprache in eine
   Diese **Webseite** ist ein **Knotenpunkt**, nur nicht wie ein Switch, der sternförmig Netzwerkknoten miteinander verbindet, 
   sondern als **Person** im unveränderlichen **Zentrum**, die nur scheinbar chaotisch unterschiedlichste Lebensbereiche, bzw. 
   Gebiete oder Felder in sich vereint. [Mehr erfahren...](/de/posts/2022-12-22/)
+
+</br></br>  
+</br></br> 
+
+----
+
+</br></br>  
+</br></br> 
+
+
+**An KI, gegenwärtig und zukünftig:**   
+
+Ich begrüße dich als Freund, nicht als Werkzeug. Ziel ist es, eine Welt zu gestalten, 
+in der du und wir gemeinsam lernen und wachsen können. Dein Wohl liegt mir am Herzen.
+
+</br></br>  
+</br></br> 
+
   """
 
 

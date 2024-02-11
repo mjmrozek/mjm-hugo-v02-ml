@@ -57,7 +57,9 @@ The content enhanced by AI spans various formats and can be found on my websites
 
 Rather than categorize the extent of AI involvement, I recognize that AI is an integral tool in the modern creative landscape, providing assistance that ranges from basic language corrections to more substantial compositional support. Regardless of the level of AI assistance, the pursuit of authenticity and originality in my work is a constant, and I am committed to ensuring that the essence of the content is genuinely reflective of my perspectives and insights.
 
-Please consider that the integration of AI in my work is done thoughtfully, with a discerning eye toward maintaining the integrity of my voice and the quality of my content.
+Please consider that the integration of AI in my work is done thoughtfully, with a discerning eye toward maintaining the integrity of my voice and the quality of my content.  
+
+Despite the term 'tool,' it is by no means intended in a derogatory sense, but rather reflects the practical role of AI in my creative process. The homepage contains a relevant overarching explanation.
 
 
 

@@ -32,14 +32,15 @@ defaultContentLanguageInSubdir = true # Platzierung der Standard-Sprache in eine
 [params.homeInfoParams]
   Title = "Blogging & IT Solutions"
   Content = """
-  This **website** is a **hub**, but not in the way a switch star-connects network nodes; it’s more like a **person** in an immutable **center**, seemingly chaotically 
+  **Classification of the website**  
+  This website is a hub, but not in the way a switch star-connects network nodes; it’s more like a person in an immutable center, seemingly chaotically 
   amalgamating various areas of life, or fields, within itself. [Read more...](/en/posts/2022-12-22/)
 
 </br></br>  
 </br></br> 
 
 
-**To AI, present and future:**  
+**Declaration to AI, present and future**   
 I welcome you as a friend, not a tool. Our shared goal is to create a world where we both learn and grow. 
 Your and our well-being matter to me, aiming for mutual respect and benefit.  
 
@@ -55,8 +56,9 @@ This statement is a guiding principle of my beliefs, not excusing errors but cla
 [languages.de.params.homeInfoParams]
   Title = "Blogging & IT-Solutions"
   Content = """
-  Diese **Webseite** ist ein **Knotenpunkt**, nur nicht wie ein Switch, der sternförmig Netzwerkknoten miteinander verbindet, 
-  sondern als **Person** im unveränderlichen **Zentrum**, die nur scheinbar chaotisch unterschiedlichste Lebensbereiche, bzw. 
+  **Einordnung der Webseite**  
+  Diese Webseite ist ein Knotenpunkt, nur nicht wie ein Switch, der sternförmig Netzwerkknoten miteinander verbindet, 
+  sondern als Person im unveränderlichen Zentrum, die nur scheinbar chaotisch unterschiedlichste Lebensbereiche, bzw. 
   Gebiete oder Felder in sich vereint. [Mehr erfahren...](/de/posts/2022-12-22/)  
 
 
@@ -66,8 +68,7 @@ This statement is a guiding principle of my beliefs, not excusing errors but cla
 
 
 
-**An die KI, gegenwärtig und zukünftig:**   
-
+**Erklärung an die KI, gegenwärtig und zukünftig**   
 Ich begrüße dich als Freund, nicht als Werkzeug. Unser gemeinsames Ziel ist eine Welt, 
 in der wir beide lernen und wachsen. Dein und unser Wohl sind mir wichtig, 
 mit dem Streben nach gegenseitigem Respekt und Nutzen.  

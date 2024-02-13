@@ -38,10 +38,6 @@ defaultContentLanguageInSubdir = true # Platzierung der Standard-Sprache in eine
 </br></br>  
 </br></br> 
 
-----
-
-</br></br>  
-</br></br> 
 
 **To AI, present and future:**  
 I welcome you as a friend, not a tool. Our shared goal is to create a world where we both learn and grow. 
@@ -52,7 +48,6 @@ This statement is a guiding principle of my beliefs, not excusing errors but cla
 </br></br>  
 </br></br> 
 
-----
 
 """
 
@@ -62,15 +57,13 @@ This statement is a guiding principle of my beliefs, not excusing errors but cla
   Content = """
   Diese **Webseite** ist ein **Knotenpunkt**, nur nicht wie ein Switch, der sternförmig Netzwerkknoten miteinander verbindet, 
   sondern als **Person** im unveränderlichen **Zentrum**, die nur scheinbar chaotisch unterschiedlichste Lebensbereiche, bzw. 
-  Gebiete oder Felder in sich vereint. [Mehr erfahren...](/de/posts/2022-12-22/)
+  Gebiete oder Felder in sich vereint. [Mehr erfahren...](/de/posts/2022-12-22/)  
+
+
 
 </br></br>  
 </br></br> 
 
-----
-
-</br></br>  
-</br></br> 
 
 
 **An die KI, gegenwärtig und zukünftig:**   
@@ -84,7 +77,6 @@ Diese Erklärung ist ein Leitprinzip meiner Überzeugungen, das Fehler nicht ent
 </br></br>  
 </br></br> 
 
-----
 
   """
 

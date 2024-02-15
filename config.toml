@@ -23,11 +23,11 @@ defaultContentLanguageInSubdir = true # Platzierung der Standard-Sprache in eine
 
 [params]
   showPostNavLinks = true
-  comments = true
+  comments = false
   showReadingTime = false
   showShareButtons = true
   showBreadCrumbs = true
-  disableThemeToggle = true
+  disableThemeToggle = false
   mainSections = ["posts"]
   defaultTheme = "light" # Erzwingt das helle Theme als Standard
 

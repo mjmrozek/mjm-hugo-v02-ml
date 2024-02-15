@@ -27,6 +27,7 @@ defaultContentLanguageInSubdir = true # Platzierung der Standard-Sprache in eine
   showReadingTime = false
   showShareButtons = true
   showBreadCrumbs = true
+  disableThemeToggle = true
   mainSections = ["posts"]
 
 

@@ -23,10 +23,13 @@ defaultContentLanguageInSubdir = true # Platzierung der Standard-Sprache in eine
 
 [params]
   showPostNavLinks = true
+  comments= true
   showReadingTime = false
   showShareButtons = true
   showBreadCrumbs = true
   mainSections = ["posts"]
+
+
 
 # Globale Parameter für Englisch
 [params.homeInfoParams]

@@ -19,7 +19,7 @@ Emsdettener Str. 10
 48268 Greven  
 Deutschland  
 </br></br>  
-E-Mail: info@mrozek-it.solutions  
+E-Mail: info@mrozek-it-solutions.com  
 Telefon: +49 177 456 7738  
 (Hinweis: Keine telefonische Hotline. Die Telefonnummer wird aufgrund gesetzlicher Offenlegungspflichten bereitgestellt.)  
 </br></br>  

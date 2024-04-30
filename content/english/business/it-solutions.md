@@ -19,7 +19,7 @@ Emsdettener Str. 10
 48268 Greven  
 Germany  
 </br></br>  
-E-Mail: info@mrozek-it.solutions  
+E-Mail: info@mrozek-it-solutions.com  
 Phone: +49 177 456 7738  
 (Note: No phone hotline available. The phone number is provided due to mandatory disclosure requirements.)  
 </br></br>  

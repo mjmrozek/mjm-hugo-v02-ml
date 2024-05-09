@@ -4,6 +4,10 @@ summary = "Blog-Posts, YouTube-Kanal, Aufgaben und Übungen, Kostefreiem und geb
 draft = false
 +++
 
+## 09.05.2024: Bis auf Weiteres betreibe ich die Lernplattform nur noch auf Englisch.  
+
+---
+
 **Kontext**  
 - Skalierung des ursprünglich kleinen, privaten Projekts P7 zu einem umfassenden Geschäftsmodell mit Blog-Posts, einem YouTube-Kanal sowie kostenlosen und gebührenpflichtigen Mitgliederbereichen für Aufgaben und Übungen.
 

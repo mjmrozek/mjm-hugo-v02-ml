@@ -6,7 +6,7 @@ draft = false
 
 
 **Steckbrief**  
-Literaturbesessen, technikbegeistert; Studium in Philosophie & Produktentwicklung; MBSE-Experte; Fokus auf frühe SDLC-Phasen.
+Literaturbesessen und technikbegeistert.
 
 ![Alt-Text für das Bild](/img/profile.jpg)
 {{< smalltext >}}Abb. 1: Ich an der Zeche Zollverein, Essen, Deutschland - Spätsommer 2022{{< /smalltext >}}
@@ -23,33 +23,6 @@ Literaturbesessen, technikbegeistert; Studium in Philosophie & Produktentwicklun
 
 **Kontakt**  
 Der bevorzugte Kontaktweg ist eine Nachricht per E-Mail. Alternativ bin ich per Twitter oder LinkedIn erreichbar. Auf Sprachnachrichten via Mobilfunknummer reagiere ich meist erst innerhalb einiger Tage.
-
-</br></br>  
-</br></br> 
-
-**Reise**  
-Mein Lebenslauf sollte zunächst die akademische Ausbildung umfassen. Doch viele prägende Ereignisse fanden außerhalb von Schule, Ausbildung oder Hochschule statt. Ein konventioneller Lebenslauf vernachlässigt somit bedeutende Momente, Wendepunkte, Entscheidungen und Herausforderungen.
-
-Während des fünften World Government Summit 2017 erkundigte sich Mohammad Al Gergawi bei Gast Elon Musk nach dessen Auswahlverfahren für sein Team. Musk verriet, dass er sich auf Intuition und wiederkehrende Fragen zu bisherigen Erfahrungen, wichtigen Entscheidungen und gelösten Problemen verlässt.
-
-Diese Herangehensweise inspirierte mich, meine eigene Reise ähnlich darzustellen. Das untenstehende Akkordeon-Element ist nicht abschließend; manchmal halte ich zunächst nur Fragen fest. Zudem ändert sich die Liste im Laufe der Zeit, ebenso wie Umstände, Bewusstsein und die Sicht auf die eigene Vergangenheit.
-
-Zum Beispiel betrachte ich nach nur einem halben Jahr meine umfangreiche SVG-Skizze vom Sommer 2022 eher kritisch:
-
-
-
-{{< lightbox src="/img/journey.jpeg" alt="Alt-Text" >}}
-{{< smalltext >}}Abb. 3: Skizze: „Origin, course and competencies …“{{< /smalltext >}}  
-
-Unter Umständen werde ich einige Punkte ausführlich als Blog-Posts beantworten. Hier versuche ich in möglichst wenigen Sätzen nur die Kernaussagen zu formulieren – so wie es für ein Gespräch angemessen wäre.
-
-1. Frage: Skizziere deinen bisherigen Weg! Wie kommst du überhaupt hierher?
-2. Entscheidung: Nach dem Abitur sofort studieren oder lieber erst eine Weltreise?
-3. Entscheidung: Wahl des richtigen Rahmenwerks und angemessener Werkzeuge zur Produktentwicklung im IT-Bereich. 
-4. Entscheidung: Wie gestalte ich eine berufliche Umorientierung? 
-5. Problem: Verinnerlichung einer sehr großen Informationsmenge
-6. Problem: Strukturierung eines Textes / Spinnen eines roten Fadens
-7. Problem: Prokrastination / Résistance 
 
 </br></br>  
 </br></br> 

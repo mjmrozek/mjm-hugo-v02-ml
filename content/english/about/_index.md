@@ -49,7 +49,7 @@ The preferred method of contact is through email. Alternatively, you can reach m
 1. Fiction Literature  
 
 ![Alt-Text für das Bild](/img/about-books-1.jpg)
-{{< smalltext >}}Fig. 4: My DIY bookshelf in the background and a Sheldon figurine upside down in the foreground{{< /smalltext >}}
+{{< smalltext >}}Fig. 3: My DIY bookshelf in the background and a Sheldon figurine upside down in the foreground{{< /smalltext >}}
 
 
 The following list of books I’ve read and thoroughly processed is not random, but incomplete and spontaneously reconstructed from memory. Like the photo, it is intended to provide only a first impression.
@@ -88,7 +88,7 @@ The following list of books I’ve read and thoroughly processed is not random, 
 2. High-End Audio  
 
 ![Alt-Text für das Bild](/img/about-earphones-1.jpg)
-{{< smalltext >}}Fig. 5: My Tin Hifi T2 in-ear headphones{{< /smalltext >}}
+{{< smalltext >}}Fig. 4: My Tin Hifi T2 in-ear headphones{{< /smalltext >}}
 
 
 The latest equipment is at the top. Of course, the quality is descending.

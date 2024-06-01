@@ -48,7 +48,7 @@ Der bevorzugte Kontaktweg ist eine Nachricht per E-Mail. Alternativ bin ich per 
 1. Belletristik  
 
 ![Alt-Text für das Bild](/img/about-books-1.jpg)
-{{< smalltext >}}Abb. 4: Mein DIY-Bücherregal im Hintergrund und eine Sheldon-Figur, kopfüber im Vordergund{{< /smalltext >}}
+{{< smalltext >}}Abb. 3: Mein DIY-Bücherregal im Hintergrund und eine Sheldon-Figur, kopfüber im Vordergund{{< /smalltext >}}
 
 
 Die folgende Aufzählung von mir gelesener bzw. durchdrungener Bücher ist nicht zufällig, aber unvollständig und spontan aus dem Gedächtnis rekonstruiert und soll, genau wie das Foto, nur einen ersten Eindruck vermitteln.
@@ -86,7 +86,7 @@ Die folgende Aufzählung von mir gelesener bzw. durchdrungener Bücher ist nicht
 2. High-End-Audio  
 
 ![Alt-Text für das Bild](/img/about-earphones-1.jpg)
-{{< smalltext >}}Abb. 5: Meine Tin Hifi T2 (In-ears){{< /smalltext >}}
+{{< smalltext >}}Abb. 4: Meine Tin Hifi T2 (In-ears){{< /smalltext >}}
 
 
 Das neueste Equipment ist oben. Die Qualität ist natürlich absteigend.

@@ -23,7 +23,7 @@ E-Mail: <a href="mailto:info&#64;mrozek-it-solutions&#46;com">info&#64;mrozek-it
 Telefon: +49 177 456 7738  
 (Hinweis: Keine telefonische Hotline. Die Telefonnummer wird aufgrund gesetzlicher Offenlegungspflichten bereitgestellt.)  
 </br></br>  
-Mrozek, IT-Solutions (Einzelunternehmen)
+Mrozek, IT-Solutions (Einzelunternehmen)  
 USt-IdNr.: DE342900786  
 
 </br></br>  

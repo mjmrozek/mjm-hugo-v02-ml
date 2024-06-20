@@ -23,7 +23,7 @@ E-Mail: <a href="mailto:info&#64;mrozek-it-solutions&#46;com">info&#64;mrozek-it
 Phone: +49 177 456 7738  
 (Note: No phone hotline available. The phone number is provided due to mandatory disclosure requirements.)  
 </br></br>  
-Mrozek, IT-Solutions (sole proprietorship)
+Mrozek, IT-Solutions (sole proprietorship)  
 USt-IdNr.: DE342900786  
 
 </br></br>  

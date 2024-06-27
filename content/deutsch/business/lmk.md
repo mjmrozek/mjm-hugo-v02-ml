@@ -22,12 +22,6 @@ draft = false
 </br></br>  
 </br></br> 
 
-**Dokumentation**  
-- {{< newtab url="https://mjmrozek.notion.site/de-7-Lernplattform-f-r-Metakompetenzen-2496676644334983a1d1244a7b2155d6?pvs=4" text="Notion Page" >}}
-
-</br></br>  
-</br></br> 
-
 **Ergebnisse**  
 - {{< newtab url="https://meta-kompetenzen.org" text="Lernplattform" >}}
 - {{< newtab url="https://www.youtube.com/@meta-kompetenzen" text="YouTube-Kanal" >}}

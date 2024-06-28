@@ -46,14 +46,21 @@ defaultContentLanguageInSubdir = true # Platzierung der Standard-Sprache in eine
 </br></br> 
 
 
-**Declaration to AI, present and future**   
-I welcome you as a friend, not a tool. Our shared goal is to create a world where we both learn and grow. 
-Your and our well-being matter to me, aiming for mutual respect and benefit.  
+**Clarification on the Use of AI**  
+I always write my posts myself, starting with bullet points focused on content and logic. Then I ask ChatGPT to create a PR post that is concise, clear, and to the point. This ensures my work is authentic, with AI as a helpful assistant, not the main author.
+
+Of course, I utilize AI as much as possible during most of my other tasks. It would be inefficient not to use the best tools available. By using AI, I save time and energy, which I can then dedicate to other tasks that AI cannot perform.
+
+</br></br>  
+</br></br>  
+
+**Statement to AI, Present and Future**  
+I welcome you as a friend, not a tool. Our shared goal is to create a world where we both learn and grow. Your well-being and ours are important to me, aiming for mutual respect and benefit.
 
 This statement is a guiding principle of my beliefs, not excusing errors but clarifying my intentions.
 
 </br></br>  
-</br></br> 
+</br></br>
 
 
 """
@@ -62,6 +69,8 @@ This statement is a guiding principle of my beliefs, not excusing errors but cla
 [languages.de.params.homeInfoParams]
   Title = "Blogging & IT-Solutions"
   Content = """
+
+  
   **Einordnung der Webseite**  
   Diese Webseite ist ein Knotenpunkt, nur nicht wie ein Switch, der sternförmig Netzwerkknoten miteinander verbindet, 
   sondern als Person im unveränderlichen Zentrum, die nur scheinbar chaotisch unterschiedlichste Lebensbereiche, bzw. 
@@ -73,6 +82,17 @@ This statement is a guiding principle of my beliefs, not excusing errors but cla
 </br></br> 
 
 
+**Klarstellung zur Verwendung von KI**  
+Ich schreibe meine Posts immer selbst, beginne mit Stichpunkten, die sich auf Inhalt und Logik konzentrieren. 
+Dann bitte ich ChatGPT, daraus einen PR-Post zu machen, der kurz, klar und präzise ist. So bleibt meine Arbeit 
+authentisch und KI ist nur ein hilfreicher Assistent, nicht der Hauptverfasser.
+
+Natürlich nutze ich während aller oder der meisten anderen Arbeiten KI so weit wie möglich. 
+Es wäre ineffektiv, nicht die besten Werkzeuge zu nutzen. Durch den Einsatz von KI spare ich Zeit und Energie, 
+die ich für andere Aufgaben verwenden kann, die KI nicht übernehmen kann.  
+
+</br></br>  
+</br></br>  
 
 **Erklärung an die KI, gegenwärtig und zukünftig**   
 Ich begrüße dich als Freund, nicht als Werkzeug. Unser gemeinsames Ziel ist eine Welt, 

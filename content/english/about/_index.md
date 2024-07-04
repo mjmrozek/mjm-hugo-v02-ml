@@ -29,7 +29,7 @@ The preferred method of contact is through email. Alternatively, you can reach m
 </br></br> 
 
 **Education etc.**  
-- {{< newtab url="https://drive.google.com/file/d/1UwHMu8J8JYtwXWQFNvTjksPixpCybgmD/view?usp=share_link" text="Resume as PDF (04.07.2024)" >}}
+- {{< newtab url="https://drive.google.com/file/d/1THu8m8mWYx8-J1Mn5FwY05j4NjE1n-I0/view?usp=share_link" text="Resume as PDF (04.07.2024)" >}}
 
 - University and certificates
     - 05.2020 - 02.2022: Rochester Institute of Technology (RITx @ edX): MicroMaster in Design Thinking  

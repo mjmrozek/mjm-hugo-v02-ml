@@ -15,6 +15,8 @@ E-Mail: mjmrozek@gmail.com
 Telefon: +49 177 456 7738  
 (Hinweis: Keine telefonische Hotline. Die Telefonnummer wird aufgrund gesetzlicher Offenlegungspflichten bereitgestellt.)  
 
+{{< newtab url="https://zeeg.me/mjmrozek" text="Telefon-Termin vereinbaren" >}}
+
 </br></br>  
 </br></br> 
 

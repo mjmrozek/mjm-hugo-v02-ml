@@ -14,7 +14,9 @@ Germany
 
 E-Mail: mjmrozek@gmail.com   
 Phone: +49 177 456 7738  
-(Note: No phone hotline. The phone number is provided due to mandatory disclosure.)
+(Note: No phone hotline. The phone number is provided due to mandatory disclosure.)  
+
+{{< newtab url="https://zeeg.me/mjmrozek" text="Schedule a call" >}}
 
 </br></br>  
 </br></br> 

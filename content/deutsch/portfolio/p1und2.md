@@ -59,5 +59,7 @@ Kostengünstige, zuverlässige, leistungsstarke und leicht erweiterbare Computer
 
 
 
+---
 
+[Vorheriges Projekt]({{< relref "p01.md" >}}) | [Nächstes Projekt]({{< relref "p3.md" >}})
 

@@ -55,3 +55,7 @@ Affordable, reliable, high-performance and easily upgradable computers (ATX & IT
 ![Alt-Text für das Bild](/img/p1.2.jpg)  
 
 ![Alt-Text für das Bild](/img/p1.3.jpg)
+
+---
+
+[Previous Project]({{< relref "p01.md" >}}) | [Next Project]({{< relref "p3.md" >}})

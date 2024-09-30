@@ -28,7 +28,7 @@ Der bevorzugte Kontaktweg ist eine Nachricht per E-Mail. Alternativ bin ich per 
 </br></br> 
 
 **Bildung usw.**  
-- {{< newtab url="https://drive.google.com/file/d/1uTGMxqEGodzDv0QWBfvpiMXhrzGLmigJ/view?usp=sharing" text="Lebenslauf als PDF (20.09.2024)" >}}
+- {{< newtab url="https://drive.google.com/file/d/1FXRShmLpflgbm1aOhf_2MuO68zMyhwJu/view?usp=sharing" text="Lebenslauf als PDF (30.09.2024)" >}}
 
 - Uni und Zertifikate
     - 05.2020 - 02.2022: Rochester Institute of Technology (RITx @ edX): MicroMaster-Programm in Design Thinking  

@@ -34,7 +34,7 @@ img.no-border {
 }
 
 br {
-    display: block; /* Standard-Blockverhalten */
-    margin: 0; /* Entfernt zusätzliche Abstände */
-    padding: 0; /* Kein Innenabstand */
+    display: block !important;
+    margin: 0 !important;
+    padding: 0 !important;
 }

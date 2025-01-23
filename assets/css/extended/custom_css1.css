@@ -32,9 +32,3 @@ img.no-border {
     margin-top: 0.5em; 
     display: block;
 }
-
-br {
-    display: block !important;
-    margin: 0 !important;
-    padding: 0 !important;
-}

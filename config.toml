@@ -6,6 +6,11 @@ theme = 'PaperMod'
 defaultContentLanguage = "en" # Standardmäßig Englisch
 defaultContentLanguageInSubdir = true # Platzierung der Standard-Sprache in einem Unterordner
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [languages]
   [languages.en]
     languageName = "English"

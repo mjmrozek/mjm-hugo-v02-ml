@@ -32,3 +32,9 @@ img.no-border {
     margin-top: 0.5em; 
     display: block;
 }
+
+br {
+    display: block; /* Standard-Blockverhalten */
+    margin: 0; /* Entfernt zusätzliche Abstände */
+    padding: 0; /* Kein Innenabstand */
+}

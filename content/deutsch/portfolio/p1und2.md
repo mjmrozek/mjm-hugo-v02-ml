@@ -9,7 +9,6 @@ draft = false
 Kostengünstige, zuverlässige, leistungsstarke und leicht erweiterbare Computer (ATX & ITX) für Office und Multimedia.
 
 </br></br>  
-</br></br> 
 
 **Ergebnisse**  
 {{< youtube cWXvjxUugzc >}}
@@ -18,7 +17,6 @@ Kostengünstige, zuverlässige, leistungsstarke und leicht erweiterbare Computer
 
 
 </br></br>  
-</br></br> 
 
 ### ITX  
 
@@ -46,7 +44,6 @@ Kostengünstige, zuverlässige, leistungsstarke und leicht erweiterbare Computer
 
 
 </br></br>  
-</br></br> 
 
 
 ### ATX

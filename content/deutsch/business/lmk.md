@@ -12,7 +12,6 @@ draft = false
 - Skalierung des ursprünglich kleinen, privaten Projekts P7 zu einem umfassenden Geschäftsmodell mit Blog-Posts, einem YouTube-Kanal sowie kostenlosen und gebührenpflichtigen Mitgliederbereichen für Aufgaben und Übungen.
 
 </br></br>  
-</br></br> 
 
 **Ziele usw.**
 - Die Zielgruppe – Schüler, Studenten und Erwachsene in Weiterbildung – findet ausgehend von konkreten Problemen über unsere YouTube-Videos und anschließende Aufgaben und Übungen praxisnahe Lösungen.
@@ -20,7 +19,6 @@ draft = false
 - Einnahmen generieren sich durch YouTube-Monetarisierung und einen optionalen, kostenpflichtigen Bereich auf der Plattform.
 
 </br></br>  
-</br></br> 
 
 **Ergebnisse**  
 - {{< newtab url="https://meta-kompetenzen.org" text="Lernplattform" >}}

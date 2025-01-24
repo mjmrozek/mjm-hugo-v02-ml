@@ -10,7 +10,6 @@ Ich biete eine Reihe von technischen Dienstleistungen an, die sich auf die früh
 {{< newtab url="https://www.mrozek-it-solutions.com" text="Dedizierte Webseite" >}}
 
 </br></br>   
-</br></br>  
 
 **Impressum**  
 Matthäus J. Mrozek  
@@ -27,7 +26,6 @@ Mrozek, IT-Solutions (Einzelunternehmen)
 USt-IdNr.: DE342900786  
 
 </br></br>  
-</br></br> 
 
 {{< image src="/img/mmits-it-logo.png" alt="Alt-Text für das Bild" class="no-border" >}}
 {{< smalltext >}}Abb. 1: Logo "Mrozek, IT-Solutions"{{< /smalltext >}}

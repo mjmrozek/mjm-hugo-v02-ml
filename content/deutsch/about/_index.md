@@ -11,7 +11,6 @@ Literaturbesessen und technikbegeistert.
 ![Alt-Text für das Bild](/img/profile.jpg)
 {{< smalltext >}}Abb. 1: Ich an der Zeche Zollverein, Essen, Deutschland - Spätsommer 2022{{< /smalltext >}}
 </br></br>  
-</br></br> 
 
 
 ![Alt-Text für das Bild](/img/about-dalle-1.jpeg)
@@ -19,13 +18,11 @@ Literaturbesessen und technikbegeistert.
 
 
 </br></br>  
-</br></br> 
 
 **Kontakt**  
-Der bevorzugte Kontaktweg ist eine Nachricht per E-Mail. Alternativ bin ich per Twitter oder LinkedIn erreichbar. Auf Sprachnachrichten via Mobilfunknummer reagiere ich meist erst innerhalb einiger Tage.
+Der bevorzugte Kontaktweg ist eine Nachricht per E-Mail. Alternativ bin ich per X (Twitter) oder LinkedIn erreichbar.
 
 </br></br>  
-</br></br> 
 
 **Bildung usw.**  
 - {{< newtab url="https://drive.google.com/file/d/1FXRShmLpflgbm1aOhf_2MuO68zMyhwJu/view?usp=sharing" text="Lebenslauf als PDF (30.09.2024)" >}}
@@ -42,7 +39,6 @@ Der bevorzugte Kontaktweg ist eine Nachricht per E-Mail. Alternativ bin ich per 
 
 
 </br></br>  
-</br></br> 
 
 **Hobbys**  
 1. Belletristik  
@@ -80,7 +76,6 @@ Die folgende Aufzählung von mir gelesener bzw. durchdrungener Bücher ist nicht
 - Sowohl 'Die Zeit-Bibliothek der 100 Bücher' als auch viele der darin aufgeführten Werke wurden gelesen, einige mehrmals, andere nur teilweise.  
 
 <br><br>  
-<br><br>
 
 
 2. High-End-Audio  

@@ -9,7 +9,6 @@ draft = false
 Affordable, reliable, high-performance and easily upgradable computers (ATX & ITX) for office and multimedia. 
 
 </br></br>  
-</br></br> 
 
 **Results**  
 {{< youtube cWXvjxUugzc >}}
@@ -18,7 +17,6 @@ Affordable, reliable, high-performance and easily upgradable computers (ATX & IT
 
 
 </br></br>  
-</br></br> 
 
 ### ITX  
 
@@ -46,7 +44,6 @@ Affordable, reliable, high-performance and easily upgradable computers (ATX & IT
 
 
 </br></br>  
-</br></br> 
 
 ### ATX
 

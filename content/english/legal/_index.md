@@ -19,7 +19,6 @@ Phone: +49 177 456 7738
 {{< newtab url="https://zeeg.me/mjmrozek" text="Schedule a call" >}}
 
 </br></br>  
-</br></br> 
 
 **Disclaimer**  
 The content on my website is created with care, yet I cannot guarantee its accuracy, completeness, or timeliness.
@@ -32,7 +31,6 @@ Personal data provided to me through contact inquiries is solely used to respond
 
 
 </br></br>  
-</br></br> 
 
 **Terms of Use for My Content**  
 All content associated with me, regardless of the platform, is the intellectual property of Matthäus J. Mrozek.
@@ -50,7 +48,6 @@ In any instance where my content is utilized, I ask for a clear and visible attr
 Engagement with my content, be it via direct access or on any social network, implies acceptance of these terms. Should you have any questions or require clarification regarding the permissible use of my content, please reach out to me directly.
 
 </br></br>  
-</br></br> 
 
 **AI Collaboration Disclosure**  
 I engage with advanced AI tools, including OpenAI's ChatGPT, to aid in the creation and refinement of content across my platforms. While I may present these contributions as part of my own body of work, I believe in transparency regarding the use of AI in my creative process.

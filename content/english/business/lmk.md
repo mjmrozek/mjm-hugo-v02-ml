@@ -8,7 +8,6 @@ draft = false
 - Scaling the originally small, private project P7 into a comprehensive business model with blog posts, a YouTube channel, and free and paid membership areas for tasks and exercises.
 
 </br></br>  
-</br></br> 
 
 **Objectives etc.**
 - The target group—students, university students, and adults in further education—finds practical solutions starting from specific problems through our YouTube videos followed by tasks and exercises.
@@ -16,7 +15,6 @@ draft = false
 - Revenue is generated through YouTube monetization and an optional, paid area on the platform.
 
 </br></br>  
-</br></br> 
 
 **Results**  
 - {{< newtab url="https://meta-competencies.org" text="Learning Platform" >}}

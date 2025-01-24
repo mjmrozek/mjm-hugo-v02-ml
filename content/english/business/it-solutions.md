@@ -10,7 +10,6 @@ I offer a range of technical services focused on the early stages of the Softwar
 {{< newtab url="https://www.mrozek-it-solutions.com" text="Dedicated Website (German)" >}}
 
 </br></br>   
-</br></br>   
 
 **Imprint**  
 Matthäus J. Mrozek  
@@ -27,7 +26,6 @@ Mrozek, IT-Solutions (sole proprietorship)
 USt-IdNr.: DE342900786  
 
 </br></br>  
-</br></br> 
 
 {{< image src="/img/mmits-it-logo.png" alt="Alt-Text für das Bild" class="no-border" >}}
 {{< smalltext >}}Fig. 1: Logo of "Mrozek, IT Solutions"{{< /smalltext >}}

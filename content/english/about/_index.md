@@ -12,7 +12,6 @@ Obsessed with literature, enthusiastic about technology.
 {{< smalltext >}}Fig. 1: Me at Zeche Zollverein, Essen, Germany - Late Summer 2022{{< /smalltext >}}
 
 </br></br>  
-</br></br> 
 
 
 ![Alt-Text für das Bild](/img/about-dalle-1.jpeg)
@@ -20,13 +19,11 @@ Obsessed with literature, enthusiastic about technology.
 
 
 </br></br>  
-</br></br> 
 
 **Contact**  
-The preferred method of contact is through email. Alternatively, you can reach me on Twitter or LinkedIn. Please note that I typically respond to voicemail messages on my mobile number within a few days.
+The preferred method of contact is through email. Alternatively, you can reach me on X (Twitter) or LinkedIn.
 
 </br></br>  
-</br></br> 
 
 **Education etc.**  
 - {{< newtab url="https://drive.google.com/file/d/1dy17lbE5WFD0yKQQO-to5LTieaWySy9N/view?usp=sharing" text="Resume as PDF (30.09.2024)" >}}
@@ -43,7 +40,6 @@ The preferred method of contact is through email. Alternatively, you can reach m
 
 
 </br></br>  
-</br></br> 
 
 **Hobbies**  
 1. Fiction Literature  
@@ -82,7 +78,6 @@ The following list of books I’ve read and thoroughly processed is not random, 
 - Both 'The Time Library of 100 Books' and many of the works listed therein have been read, some multiple times, others only partially.  
 
 <br><br>  
-<br><br>
 
 
 2. High-End Audio  

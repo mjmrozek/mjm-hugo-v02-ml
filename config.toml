@@ -147,7 +147,7 @@ Diese Erklärung ist ein Leitprinzip meiner Überzeugungen, das Fehler nicht ent
 
 # Menüeinträge für Englisch
 [[menu.main]]
-name = "Blog"
+name = "Blog etc."
 url = "/posts/"
 weight = 1
 
@@ -183,7 +183,7 @@ weight = 3
 
 # Menüeinträge für Deutsch
 [[languages.de.menu.main]]
-name = "Blog"
+name = "Blog etc."
 url = "/de/posts/"
 weight = 1
 

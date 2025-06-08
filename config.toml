@@ -1,5 +1,5 @@
 baseURL = 'https://mjmrozek.com/'
-title = 'Matthäus J. Mrozek'
+title = 'Matthäus Mrozek'
 theme = 'PaperMod'
 
 # Definiere Standard-Sprache
@@ -17,14 +17,14 @@ defaultContentLanguageInSubdir = true # Platzierung der Standard-Sprache in eine
     contentDir = "content/english"
     weight = 1
     languageCode = "en-us"
-    title = "Matthäus J. Mrozek"
+    title = "Matthäus Mrozek"
   
   [languages.de]
     languageName = "Deutsch"
     contentDir = "content/deutsch"
     weight = 2
     languageCode = "de-de"
-    title = "Matthäus J. Mrozek"
+    title = "Matthäus Mrozek"
 
 [params]
   showPostNavLinks = true

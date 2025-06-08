@@ -12,7 +12,7 @@ I offer a range of technical services focused on the early stages of the Softwar
 </br></br>   
 
 **Imprint**  
-Matthäus J. Mrozek  
+Matthäus Mrozek  
 c/o Grosch Postflex #2362  
 Emsdettener Str. 10  
 48268 Greven  

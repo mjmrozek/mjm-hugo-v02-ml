@@ -12,7 +12,7 @@ Ich biete eine Reihe von technischen Dienstleistungen an, die sich auf die früh
 </br></br>   
 
 **Impressum**  
-Matthäus J. Mrozek  
+Matthäus Mrozek  
 c/o Grosch Postflex #2362  
 Emsdettener Str. 10  
 48268 Greven  

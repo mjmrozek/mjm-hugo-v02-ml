@@ -11,7 +11,7 @@ Kostengünstige, zuverlässige, leistungsstarke und leicht erweiterbare Computer
 </br></br>  
 
 **Ergebnisse**  
-{{< youtube cWXvjxUugzc >}}
+{{< youtube 6SRhhuBtW-Q >}}
 {{< smalltext >}}Abb. 1: Projektergebnis im Video{{< /smalltext >}}
 
 

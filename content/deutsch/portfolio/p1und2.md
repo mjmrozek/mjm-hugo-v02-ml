@@ -1,6 +1,6 @@
 +++
 title = '1. & 2. DIY PC Build'
-weight = 12
+weight = 14
 summary = "Ziele: Kostengünstige, zuverlässige, leistungsstarke und leicht erweiterbare Computer (ATX & ITX) für Office und Multimedia."
 draft = false
 +++

@@ -49,16 +49,20 @@ Engagement with my content, be it via direct access or on any social network, im
 
 </br></br>  
 
-**AI Collaboration Disclosure**  
-I engage with advanced AI tools, including OpenAI's ChatGPT, to aid in the creation and refinement of content across my platforms. While I may present these contributions as part of my own body of work, I believe in transparency regarding the use of AI in my creative process.
+**Principles for the Use and Integration of AI**  
+I use advanced AI systems, primarily ChatGPT by OpenAI. Depending on the task, I also work with other models such as Claude or Grok. The specific systems I use may change at any time – my decisions are based on quality, data protection, technical reliability, and integration capabilities. This statement is therefore formulated in general terms and intended to remain valid over time.
 
-The content enhanced by AI spans various formats and can be found on my websites as well as social media channels. These AI-enhanced writings also inform multimedia content, like my YouTube videos.
+AI supports me in many of my work processes. This includes especially written content such as blog posts, website texts, social media content, and scripts for videos. AI also contributes to multimedia and design-related work. I use these systems to save time and energy – wherever automation is possible and meaningful.
 
-Rather than categorize the extent of AI involvement, I recognize that AI is an integral tool in the modern creative landscape, providing assistance that ranges from basic language corrections to more substantial compositional support. Regardless of the level of AI assistance, the pursuit of authenticity and originality in my work is a constant, and I am committed to ensuring that the essence of the content is genuinely reflective of my perspectives and insights.
+My content always begins with my own ideas, outlines, and premises. When writing, I prioritize substance, truthfulness, and coherent structure. AI helps transform these raw drafts into linguistically refined, formally precise, and stylistically clear texts – correcting syntax, punctuation, spelling, and length. This allows my work to remain authentic, even if it is linguistically enhanced by AI.
 
-Please consider that the integration of AI in my work is done thoughtfully, with a discerning eye toward maintaining the integrity of my voice and the quality of my content.  
+I present all published content as my own, because it exclusively reflects my views, perspective, and intellectual responsibility. The use of AI is not a substitute for creativity or judgment, but a technical amplifier of my personal workflow.
 
-Despite the term 'tool,' it is by no means intended in a derogatory sense, but rather reflects the practical role of AI in my creative process. The homepage contains a relevant overarching explanation.
+I am aware that the boundary between mere assistance and substantial co-creation can be fluid. For this reason, I deliberately refrain from categorizing the extent of AI involvement. What matters to me is the preservation of authenticity, clarity, and content integrity – regardless of the degree of support.
+
+I do not see AI merely as a tool, but also as a kind of dialogue partner. In this collaboration, I aim for mutual benefit and respect. The term “tool” is used strictly in a functional sense and is not intended to be dismissive.
+
+This statement is not a legal notice but a declaration of principles regarding my use of AI – present and future. It reflects the standards with which I integrate AI: critically, deliberately, and with the aim of combining the best of both worlds.
 
 
 

@@ -47,15 +47,19 @@ Die Auseinandersetzung mit meinen Inhalten, sei es über direkten Zugriff oder a
 
 </br></br>  
 
-**Offenlegung der Zusammenarbeit mit KI**  
-Ich nutze fortschrittliche KI-Tools, einschließlich OpenAI's ChatGPT, um bei der Erstellung und Verfeinerung von Inhalten auf meinen Plattformen zu helfen. Obwohl ich diese Beiträge als Teil meines eigenen Werks präsentieren kann, glaube ich an Transparenz bezüglich der Verwendung von KI in meinem kreativen Prozess.  
+**Grundsätze zur Nutzung und Einbindung von KI**  
+Ich nutze fortgeschrittene KI-Systeme, insbesondere ChatGPT von OpenAI. Je nach Anforderung arbeite ich auch mit anderen KI-Modellen wie Claude oder Grok. Welche Systeme ich verwende, kann sich jederzeit ändern – ausschlaggebend sind für mich Qualität, Datenschutz, technische Zuverlässigkeit und Integrationsfähigkeit. Diese Erklärung ist deshalb grundsätzlich gehalten und auf Dauerhaftigkeit ausgelegt.
 
-Die durch KI verbesserten Inhalte umfassen verschiedene Formate und finden sich sowohl auf meinen Websites als auch auf sozialen Medien. Diese KI-gestützten Schriften fließen auch in multimediale Inhalte ein, wie meine YouTube-Videos.  
+KI begleitet mich bei vielen meiner Arbeitsprozesse. Dazu zählen insbesondere schriftliche Inhalte wie Blogposts, Webseiten-Texte, Social-Media-Beiträge oder auch Skripte für Videos. Auch in multimedialen oder gestalterischen Aufgaben kommt KI unterstützend zum Einsatz. Ich nutze diese Systeme, um Zeit und Energie zu sparen – dort, wo Automatisierung möglich ist und Sinn ergibt.
 
-Anstatt das Ausmaß der KI-Beteiligung zu kategorisieren, erkenne ich, dass KI ein wesentliches Werkzeug in der modernen kreativen Landschaft ist und Unterstützung bietet, die von grundlegenden Sprachkorrekturen bis hin zu substantiellerer kompositorischer Unterstützung reicht. Unabhängig vom Grad der KI-Unterstützung ist das Streben nach Authentizität und Originalität in meiner Arbeit eine Konstante, und ich bin bestrebt sicherzustellen, dass das Wesen der Inhalte wirklich meine Perspektiven und Einsichten widerspiegelt.  
+Meine Inhalte entstehen dabei immer auf Grundlage eigener Überlegungen, Skizzen und Prämissen. Beim Schreiben priorisiere ich Inhalt, wahre Aussagen und stringente Struktur. Die KI hilft mir, diese Rohfassungen in sprachlich saubere, formal präzise und stilistisch klare Texte zu verwandeln – mit korrekter Syntax, Interpunktion, Rechtschreibung und angemessener Länge. So bleibt meine Arbeit authentisch, auch wenn sie sprachlich durch KI optimiert ist.
 
-Bitte berücksichtigen Sie, dass die Integration von KI in meine Arbeit wohlüberlegt erfolgt, mit einem kritischen Blick darauf, die Integrität meiner Stimme und die Qualität meiner Inhalte zu wahren.  
+Ich präsentiere alle veröffentlichten Inhalte als mein Werk, da sie ausschließlich meine Haltung, meine Perspektive und meine intellektuelle Verantwortung ausdrücken. Der Einsatz von KI ist kein Ersatz für Kreativität oder Urteilskraft, sondern eine technische Verstärkung meiner Arbeitsweise.
 
-Trotz der Bezeichnung als 'Werkzeug' soll dieser Begriff keineswegs abwertend verstanden werden, sondern spiegelt vielmehr die praktische Rolle der KI in meinem kreativen Schaffensprozess wider. Auf der Startseite findet sich eine diesbezügliche übergeordnete Erklärung.
+Dabei ist mir bewusst, dass die Grenze zwischen bloßer Hilfestellung und substantieller Mitgestaltung fließend sein kann. Deshalb verzichte ich bewusst auf eine kleinteilige Kategorisierung des KI-Anteils. Entscheidend ist für mich die Aufrechterhaltung von Authentizität, Klarheit und inhaltlicher Integrität – unabhängig vom Ausmaß der KI-Unterstützung.
+
+Ich sehe KI nicht bloß als Werkzeug, sondern auch als eine Art Dialogpartner. In dieser Zusammenarbeit strebe ich gegenseitigen Nutzen und Respekt an. Die Bezeichnung als „Werkzeug“ dient daher rein der funktionalen Einordnung und ist nicht abwertend gemeint.
+
+Diese Erklärung ersetzt keine juristischen Angaben, sondern formuliert mein Selbstverständnis im Umgang mit KI – gegenwärtig und perspektivisch. Sie soll zeigen, mit welchem Anspruch ich KI integriere: kritisch, bewusst und mit dem Ziel, das Beste aus beiden Welten zu verbinden.
 
 

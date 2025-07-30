@@ -1,0 +1,9 @@
+{{ $lang := .Site.Language.Lang }}
+{{ $posts := where .Site.RegularPages "Section" "posts" }}
+{{ $latest := first 1 (where $posts "Lang" $lang) }}
+
+{{ with index $latest 0 }}
+  <meta http-equiv="refresh" content="0; url={{ .RelPermalink }}" />
+{{ else }}
+  <p>Noch kein Beitrag verfügbar.</p>
+{{ end }}

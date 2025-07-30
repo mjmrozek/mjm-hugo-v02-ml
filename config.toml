@@ -46,6 +46,11 @@ defaultContentLanguageInSubdir = true # Platzierung der Standard-Sprache in eine
   **Classification**  
   This website is a hub [...] with [me] as a person in an immutable center [[...]](/en/posts/2022-12-22/)
 
+</br>
+
+  **Update Note**  
+  This site is rarely updated – see social media.
+
 
 </br></br>  
 
@@ -61,6 +66,11 @@ defaultContentLanguageInSubdir = true # Platzierung der Standard-Sprache in eine
   **Einordnung**  
   Diese Webseite ist ein Knotenpunkt […] mit [mir] als Person im unveränderlichen Zentrum [[...]](/de/posts/2022-12-22/)  
 
+</br>
+
+  **Hinweis zur Aktualität**  
+  Diese Seite wird selten aktualisiert – siehe Social Media.
+
 
 
 </br></br>  
@@ -72,37 +82,37 @@ defaultContentLanguageInSubdir = true # Platzierung der Standard-Sprache in eine
 # Social Icons bleiben gleich, da sie sprachunabhängig sind
 [[params.socialIcons]]
 # ... (deine vorhandenen Social-Icons)
-  [[params.socialIcons]]
-  name = "email"
-  url = "mailto:mjmrozek@gmail.com"
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/mjmrozek"
 
-  [[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com/mjmrozek"
+[[params.socialIcons]]
+name = "threads"
+url = "https://www.threads.net/@mjmrozek"
 
-  [[params.socialIcons]]
-  name = "threads"
-  url = "https://www.threads.net/@mjmrozek"
+[[params.socialIcons]]
+name = "instagram"
+url = "https://www.instagram.com/mjmrozek/"
 
-  [[params.socialIcons]]
-  name = "linkedin"
-  url = "https://www.linkedin.com/in/mjmrozek/"
+[[params.socialIcons]]
+name = "youtube"
+url = "https://www.youtube.com/@mjmrozek"
 
-  [[params.socialIcons]]
-  name = "facebook"
-  url = "https://www.facebook.com/matthaeusjmrozek"
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/mjmrozek/"
 
-  [[params.socialIcons]]
-  name = "instagram"
-  url = "https://www.instagram.com/mjmrozek/"
+[[params.socialIcons]]
+name = "facebook"
+url = "https://www.facebook.com/matthaeusjmrozek"
 
-  [[params.socialIcons]]
-  name = "youtube"
-  url = "https://www.youtube.com/@mjmrozek"
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/mjmrozek"
 
-  [[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/mjmrozek"
+[[params.socialIcons]]
+name = "email"
+url = "mailto:mjmrozek@gmail.com"
 
 
 

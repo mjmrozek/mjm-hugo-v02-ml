@@ -3,7 +3,10 @@
 {{ $latest := first 1 (where $posts "Lang" $lang) }}
 
 {{ with index $latest 0 }}
-  <meta http-equiv="refresh" content="0; url={{ .RelPermalink }}" />
+  <article>
+    <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+    {{ .Content }}
+  </article>
 {{ else }}
-  <p>Noch kein Beitrag verfügbar.</p>
+  <p>Noch kein Beitrag vorhanden.</p>
 {{ end }}

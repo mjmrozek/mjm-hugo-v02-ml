@@ -111,7 +111,7 @@ defaultContentLanguageInSubdir = true # Platzierung der Standard-Sprache in eine
 
 # Menüeinträge für Englisch
 [[menu.main]]
-name = "Blog etc."
+name = "Blog"
 url = "/posts/"
 weight = 1
 
@@ -147,7 +147,7 @@ weight = 3
 
 # Menüeinträge für Deutsch
 [[languages.de.menu.main]]
-name = "Blog etc."
+name = "Blog"
 url = "/de/posts/"
 weight = 1
 

@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir = true # Platzierung der Standard-Sprache in eine
 [params.homeInfoParams]
   Title = "Blogging & IT Solutions"
   Content = """
-  **Classification of the website**  
+  **Classification**  
   This website is a hub […] with [me] as a person in an immutable center [...] [Read more...](/en/posts/2022-12-22/)
 
 
@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = true # Platzierung der Standard-Sprache in eine
   Content = """
 
   
-  **Einordnung der Webseite**  
+  **Einordnung**  
   Diese Webseite ist ein Knotenpunkt […] [mir] als Person im unveränderlichen Zentrum […] [Mehr erfahren...](/de/posts/2022-12-22/)  
 
 

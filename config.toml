@@ -97,24 +97,12 @@ name = "twitter"
 url = "https://twitter.com/mjmrozek"
 
 [[params.socialIcons]]
-name = "threads"
-url = "https://www.threads.net/@mjmrozek"
-
-[[params.socialIcons]]
-name = "instagram"
-url = "https://www.instagram.com/mjmrozek/"
-
-[[params.socialIcons]]
 name = "youtube"
 url = "https://www.youtube.com/@mjmrozek"
 
 [[params.socialIcons]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/mjmrozek/"
-
-[[params.socialIcons]]
-name = "facebook"
-url = "https://www.facebook.com/matthaeusjmrozek"
 
 [[params.socialIcons]]
 name = "github"

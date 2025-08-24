@@ -101,10 +101,6 @@ name = "youtube"
 url = "https://www.youtube.com/@mjmrozek"
 
 [[params.socialIcons]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/mjmrozek/"
-
-[[params.socialIcons]]
 name = "github"
 url = "https://github.com/mjmrozek"
 

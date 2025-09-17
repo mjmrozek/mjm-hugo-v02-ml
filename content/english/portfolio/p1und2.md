@@ -11,7 +11,7 @@ Affordable, reliable, high-performance and easily upgradable computers (ATX & IT
 </br></br>  
 
 **Results**  
-{{< youtube cWXvjxUugzc >}}
+{{< youtube 6SRhhuBtW-Q >}}
 {{< smalltext >}}Fig. 1: Project result in video{{< /smalltext >}}
 
 

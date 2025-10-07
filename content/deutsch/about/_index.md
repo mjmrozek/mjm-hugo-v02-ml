@@ -8,10 +8,6 @@ draft = false
 **Steckbrief**  
 Literaturbesessen und technikbegeistert.
 
-![Alt-Text für das Bild](/img/profile.jpg)
-{{< smalltext >}}Abb. 1: Ich an der Zeche Zollverein, Essen, Deutschland - Spätsommer 2022{{< /smalltext >}}
-</br></br>  
-
 
 ![Alt-Text für das Bild](/img/about-dalle-1.jpeg)
 {{< smalltext >}}Abb. 2: Durch DALL-E 2 generierte Bilder auf Grundlage des Steckbriefes{{< /smalltext >}}
